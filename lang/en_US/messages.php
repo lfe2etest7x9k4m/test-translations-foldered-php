@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'welcome' => 'Welcome to our application',
-    'greeting' => 'Hello, :name!',
-    'goodbye' => 'Goodbye',
-    'e2e_deletion_test_key' => 'MODIFIED VALUE',
+  'e2e_deletion_test_key' => 'MODIFIED VALUE',
+  'goodbye' => 'Goodbye',
+  'greeting' => 'Hello, :name!',
+  'welcome' => 'Welcome to our application',
 ];
