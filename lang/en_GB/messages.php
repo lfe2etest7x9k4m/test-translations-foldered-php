@@ -1,10 +1,7 @@
 <?php
 
 return [
-  'e2e_basic_tr_1769714657222' => 'Hello from basic translation test',
-  'e2e_delete_tr_1769714698795' => 'Value to delete',
-  'e2e_modify_tr_1769714675905' => 'Initial value for modify test',
-  'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
+  'goodbye' => 'Goodbye',
   'welcome' => 'Welcome to our application',
 ];
