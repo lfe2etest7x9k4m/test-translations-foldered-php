@@ -6,8 +6,8 @@ return [
   'e2e_basic_tr_1769707320587' => 'Hello from basic translation test',
   'e2e_basic_tr_1769707777303' => 'Hello from basic translation test',
   'e2e_basic_tr_1769708686842' => 'Hello from basic translation test',
+  'e2e_basic_tr_1769709452163' => 'Hello from basic translation test',
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
-    'e2e_basic_tr_1769709452163' => 'Hello from basic translation test',
 ];
