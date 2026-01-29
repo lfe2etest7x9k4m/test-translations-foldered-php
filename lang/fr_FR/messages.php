@@ -2,7 +2,8 @@
 
 return [
   'e2e_basic_tr_1769715274086' => 'Bonjour du test de traduction basique',
-  'e2e_modify_tr_1769715292807' => 'Valeur initiale pour le test de modification',
+  'e2e_delete_tr_1769715315783' => 'Valeur à supprimer',
+  'e2e_modify_tr_1769715292807' => 'Valeur modifiée pour le test de modification',
   'goodbye' => 'Au revoir',
   'greeting' => 'Bonjour, :name !',
   'welcome' => 'Bienvenue sur notre application',
