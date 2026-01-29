@@ -1,8 +1,7 @@
 <?php
 
 return [
-  'e2e_update_precedence_key' => 'UPDATED VALUE',
-  'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
+  'goodbye' => 'Tot ziens',
   'welcome' => 'Welkom bij onze applicatie',
 ];
