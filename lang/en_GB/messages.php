@@ -6,4 +6,5 @@ return [
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
+    'e2e_pr_tr_1769734949150' => 'PR test value',
 ];
