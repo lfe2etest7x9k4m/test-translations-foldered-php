@@ -1,9 +1,7 @@
 <?php
 
 return [
-  'e2e_basic_tr_1769745948853' => 'Hallo van de basisvertalingstest',
-  'e2e_modify_tr_1769745962447' => 'Gewijzigde waarde voor aanpassingstest',
-  'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
+  'goodbye' => 'Tot ziens',
   'welcome' => 'Welkom bij onze applicatie',
 ];
