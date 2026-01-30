@@ -6,6 +6,4 @@ return [
   'e2e_pr_tr_1769740459701' => 'PR test value',
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
-  'welcome' => 'Welcome to our application',
-    'e2e_update_precedence_key' => 'en_GB original',
-];
+  'welcome' => 'Welcome to our application',];
