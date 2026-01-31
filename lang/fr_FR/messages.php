@@ -5,5 +5,6 @@ return [
   'e2e_modify_tr_1769895769788' => 'Valeur modifiée pour le test de modification',
   'goodbye' => 'Au revoir',
   'greeting' => 'Bonjour, :name !',
+  'quota_test_key' => 'Valeur de test',
   'welcome' => 'Bienvenue sur notre application',
 ];
