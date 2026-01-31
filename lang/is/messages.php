@@ -1,12 +1,7 @@
 <?php
 
 return [
-  'e2e_basic_tr_1769886190669' => 'Halló frá einföldu þýðingarprófi',
-  'e2e_modify_tr_1769886204246' => 'Breytt gildi fyrir breytingapróf',
-  'e2e_pr_tr_1769886368423' => 'PR prófgildi',
-  'e2e_update_precedence_key' => 'UPDATED VALUE',
-  'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
-  'quota_test_key' => 'Prófgildi',
+  'goodbye' => 'Bless',
   'welcome' => 'Velkomin í forritið okkar',
 ];
