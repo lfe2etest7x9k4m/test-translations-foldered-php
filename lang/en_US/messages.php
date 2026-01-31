@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1769900479794' => 'Hello from basic translation test',
+  'e2e_delete_tr_1769900516047' => 'Value to delete',
   'e2e_modify_tr_1769900493260' => 'Modified value for modify test',
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
