@@ -4,9 +4,9 @@ return [
   'e2e_basic_tr_1769895756177' => 'Halló frá grunnþýðingarprófi',
   'e2e_modify_tr_1769895769788' => 'Breytt gildi fyrir breytingapróf',
   'e2e_pr_tr_1769895934069' => 'PR prófunargildi',
+  'e2e_update_precedence_key' => 'Uppfærð gildi',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
   'quota_test_key' => 'Prófunargildi',
   'welcome' => 'Velkomin í forritið okkar',
-    'e2e_update_precedence_key' => 'is original',
 ];
