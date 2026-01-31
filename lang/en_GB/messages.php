@@ -1,5 +1,7 @@
 <?php
 
 return [
-  'test' => 'value'
-  // Missing closing bracket - invalid syntax
+    'greeting' => 'Hello, :name!',
+    'goodbye' => 'Goodbye',
+    'welcome' => 'Welcome to our application',
+];
