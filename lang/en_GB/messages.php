@@ -1,8 +1,7 @@
 <?php
 
 return [
-  'e2e_basic_tr_1769897117159' => 'Hello from basic translation test',  'e2e_modify_tr_1769897130722' => 'Modified value for modify test',
-  'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
+  'goodbye' => 'Goodbye',
   'welcome' => 'Welcome to our application',
 ];
