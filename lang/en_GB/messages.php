@@ -6,4 +6,5 @@ return [
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
+    'rt03_sync_1769977032711' => 'Multi-tab sync test',
 ];
