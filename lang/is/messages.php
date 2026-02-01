@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1769928955025' => 'Halló frá grunnþýðingarprófi',
   'e2e_modify_tr_1769928968550' => 'Breytt gildi fyrir breytingapróf',
+  'e2e_quota_pause_1769929129083' => 'Próf á bið á kvóta',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
   'quota_test_key' => 'Prófgildi',
