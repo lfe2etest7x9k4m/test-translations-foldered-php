@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1769924357998' => 'Bonjour du test de traduction basique',
   'e2e_modify_tr_1769924371437' => 'Valeur initiale pour le test de modification',
+  'e2e_multi_lang_1769924600098' => 'Modification manuelle en anglais américain',
   'e2e_pr_tr_1769924549962' => 'Valeur de test PR',
   'e2e_quota_pause_1769924530916' => 'Test de pause de quota',
   'e2e_update_precedence_key' => 'VALEUR MISE À JOUR',
