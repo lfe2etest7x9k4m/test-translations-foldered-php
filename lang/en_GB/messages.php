@@ -5,6 +5,6 @@ return [
   'e2e_modify_tr_1769976940568' => 'Modified value for modify test',
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
+  'rt03_sync_1769977032711' => 'Multi-tab sync test',
   'welcome' => 'Welcome to our application',
-    'rt03_sync_1769977032711' => 'Multi-tab sync test',
 ];
