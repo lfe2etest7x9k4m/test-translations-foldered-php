@@ -1,10 +1,7 @@
 <?php
 
 return [
-  'e2e_basic_tr_1769978024747' => 'Hallo van basistranslatietest',
-  'e2e_modify_tr_1769978045372' => 'Gewijzigde waarde voor wijzigingstest',
-  'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
-  'quota_test_key' => 'Testwaarde',
+  'goodbye' => 'Tot ziens',
   'welcome' => 'Welkom bij onze applicatie',
 ];
