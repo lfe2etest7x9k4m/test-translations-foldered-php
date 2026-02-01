@@ -1,13 +1,1 @@
-{
-  "e2e_json_fmt_1769922958418": "JSON format test value",
-  "greeting": "Hello, :name!",
-  "settings": {
-    "description": null,
-    "enabled": true,
-    "max_retries": 3
-  },
-  "ui": {
-    "button_cancel": "Cancel",
-    "button_save": "Save"
-  }
-}
+{ invalid json content here }

@@ -11,4 +11,5 @@ return [
   'greeting' => 'Hello, :name!',
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
+    'e2e_parse_test_1769923172046' => 'Parse error test value',
 ];
