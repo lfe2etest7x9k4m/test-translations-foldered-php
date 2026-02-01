@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1769924357998' => 'Hello from basic translation test',
   'e2e_modify_tr_1769924371437' => 'Initial value for modify test',
+  'e2e_multi_lang_1769924600098' => 'American English manual edit',
   'e2e_pr_tr_1769924549962' => 'PR test value',
   'e2e_quota_pause_1769924530916' => 'Quota pause test',
   'e2e_update_precedence_key' => 'UPDATED VALUE',
@@ -10,5 +11,4 @@ return [
   'greeting' => 'Hello, :name!',
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
-    'e2e_multi_lang_1769924600098' => 'American English manual edit',
 ];
