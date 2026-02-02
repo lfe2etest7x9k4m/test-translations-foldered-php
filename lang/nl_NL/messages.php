@@ -5,10 +5,10 @@ return [
   'e2e_modify_tr_1770015619193' => 'Gewijzigde waarde voor wijzigingstest',
   'e2e_pr_tr_1770015837361' => 'PR-testwaarde',
   'e2e_quota_pause_1770015815224' => 'Quota pauzetest',
+  'e2e_update_precedence_key' => 'UPDATED VALUE',
   'e2e_ws_rt_1770015697088' => 'WebSocket real-time testwaarde',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
   'quota_test_key' => 'Testwaarde',
   'welcome' => 'Welkom bij onze applicatie',
-    'e2e_update_precedence_key' => 'nl_NL original',
 ];
