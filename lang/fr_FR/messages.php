@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770045320165' => 'Bonjour du test de traduction de base',
+  'e2e_bp03_1770045790997' => 'Test de protection GitHub',
   'e2e_err10_1770045772028' => 'Test de rejet de push',
   'e2e_modify_tr_1770045340982' => 'Valeur modifiée pour le test de modification',
   'e2e_pr_tr_1770045646835' => 'Valeur de test PR',
