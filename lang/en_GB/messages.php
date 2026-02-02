@@ -15,4 +15,5 @@ return [
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
     'e2e_multi_lang_1770046481948' => 'British English manual edit',
+    'e2e_err10_1770046511580' => 'Push rejection test',
 ];
