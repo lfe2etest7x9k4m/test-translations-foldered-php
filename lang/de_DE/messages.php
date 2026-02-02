@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770044101969' => 'Hallo vom grundlegenden Übersetzungstest',
+  'e2e_err10_1770044681016' => 'Push-Ablehnungstest',
   'e2e_modify_tr_1770044115845' => 'Anfangswert für Modifikationstest',
   'e2e_pr_tr_1770044400266' => 'PR-Testwert',
   'e2e_quota_pause_1770044333908' => 'Kontingentpausentest',
