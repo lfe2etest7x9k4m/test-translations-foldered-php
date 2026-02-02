@@ -6,4 +6,5 @@ return [
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
+    'e2e_ws_rt_1770039843198' => 'WebSocket real-time test value',
 ];
