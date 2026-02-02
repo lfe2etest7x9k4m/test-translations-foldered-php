@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770038484738' => 'Hello from basic translation test',
+  'e2e_modify_tr_1770038498381' => 'Initial value for modify test',
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
