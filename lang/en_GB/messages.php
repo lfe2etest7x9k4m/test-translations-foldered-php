@@ -1,8 +1,7 @@
 <?php
 
 return [
-  'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
+  'goodbye' => 'Goodbye',
   'welcome' => 'Welcome to our application',
-    'e2e_basic_tr_1770034364491' => 'Hello from basic translation test',
 ];

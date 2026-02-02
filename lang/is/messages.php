@@ -1,7 +1,7 @@
 <?php
 
 return [
-  'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
+  'goodbye' => 'Bless',
   'welcome' => 'Velkomin í forritið okkar',
 ];
