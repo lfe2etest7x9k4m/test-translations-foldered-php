@@ -6,10 +6,10 @@ return [
   'e2e_pr_tr_1770025589061' => 'PR testwaarde',
   'e2e_rt05_ws_1770025554734' => 'RT-05 WebSocket test',
   'e2e_rt21_ws_1770025479911' => 'RT-21 gebruiksupdate test',
+  'e2e_update_precedence_key' => 'Bijgewerkte waarde',
   'e2e_ws_rt_1770025409449' => 'WebSocket real-time testwaarde',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
   'quota_test_key' => 'Testwaarde',
   'welcome' => 'Welkom bij onze applicatie',
-    'e2e_update_precedence_key' => 'nl_NL original',
 ];
