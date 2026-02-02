@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770045320165' => 'Hallo vom grundlegenden Übersetzungstest',
+  'e2e_err10_1770045772028' => 'Push-Ablehnungstest',
   'e2e_modify_tr_1770045340982' => 'Modifizierter Wert für Modifikationstest',
   'e2e_pr_tr_1770045646835' => 'PR-Testwert',
   'e2e_quota_pause_1770045600376' => 'Quota-Pausentest',
