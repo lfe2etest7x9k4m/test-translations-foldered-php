@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770041268429' => 'Bonjour du test de traduction de base',
+  'e2e_err10_1770041676006' => 'Test de rejet de push',
   'e2e_modify_tr_1770041282189' => 'Valeur initiale pour le test de modification',
   'e2e_multi_lang_1770041624872' => 'Modification manuelle en anglais américain',
   'e2e_pr_tr_1770041556606' => 'Valeur de test PR',
