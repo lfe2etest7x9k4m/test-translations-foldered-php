@@ -2,7 +2,6 @@
 
 return [
   'e2e_basic_tr_1770046105435' => 'Hallo van basale vertaaltest',
-  'e2e_delete_tr_1770046142120' => 'Te verwijderen waarde',
   'e2e_modify_tr_1770046119272' => 'Gewijzigde waarde voor wijzigingstest',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
