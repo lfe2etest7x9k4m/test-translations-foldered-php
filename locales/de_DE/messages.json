@@ -1,4 +1,5 @@
 {
+  "e2e_json_fmt_1770044171509": "JSON-Format-Testwert",
   "greeting": "Hallo, :name!",
   "ui": {
     "button_cancel": "Abbrechen",
