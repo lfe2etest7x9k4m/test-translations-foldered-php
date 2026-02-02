@@ -11,4 +11,5 @@ return [
   'greeting' => 'Hallo, :name!',
   'quota_test_key' => 'Testwaarde',
   'welcome' => 'Welkom bij onze applicatie',
+    'e2e_multi_lang_1770024358168' => 'nl_NL original',
 ];
