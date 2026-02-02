@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770039034943' => 'Hallo vom grundlegenden Übersetzungstest',
   'e2e_modify_tr_1770039055808' => 'Ursprünglicher Wert für den Änderungs-Test',
+  'e2e_ws_rt_1770039135151' => 'WebSocket Echtzeit-Testwert',
   'goodbye' => 'Auf Wiedersehen',
   'greeting' => 'Hallo, :name!',
   'welcome' => 'Willkommen bei unserer Anwendung',
