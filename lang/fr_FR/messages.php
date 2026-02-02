@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770044101969' => 'Bonjour du test de traduction de base',
+  'e2e_err10_1770044681016' => 'Test de rejet de push',
   'e2e_modify_tr_1770044115845' => 'Valeur modifiée pour le test de modification',
   'e2e_pr_tr_1770044400266' => 'Valeur de test PR',
   'e2e_quota_pause_1770044333908' => 'Test de pause de quota',
