@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770045320165' => 'Bonjour du test de traduction de base',
   'e2e_modify_tr_1770045340982' => 'Valeur modifiée pour le test de modification',
+  'e2e_multi_lang_1770045741351' => 'Modification manuelle en anglais américain',
   'e2e_pr_tr_1770045646835' => 'Valeur de test PR',
   'e2e_quota_pause_1770045600376' => 'Test de pause de quota',
   'e2e_rt05_ws_1770045613535' => 'Test WebSocket RT-05',
