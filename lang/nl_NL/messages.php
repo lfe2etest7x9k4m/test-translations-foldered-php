@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770046105435' => 'Hallo van basale vertaaltest',
+  'e2e_bp03_1770046530252' => 'GitHub beschermingstest',
   'e2e_err10_1770046511580' => 'Push afwijzingstest',
   'e2e_modify_tr_1770046119272' => 'Gewijzigde waarde voor wijzigingstest',
   'e2e_multi_lang_1770046481948' => 'nl_NL original',
