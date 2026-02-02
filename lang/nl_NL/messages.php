@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770039750915' => 'Hallo van basale vertaaltest',
+  'e2e_err10_1770040125731' => 'Push afwijzingstest',
   'e2e_modify_tr_1770039764548' => 'Gewijzigde waarde voor aanpassen test',
   'e2e_multi_lang_1770040082368' => 'nl_NL original',
   'e2e_pr_tr_1770040030731' => 'PR testwaarde',
