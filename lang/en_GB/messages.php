@@ -8,4 +8,5 @@ return [
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
+    'e2e_rt21_ws_1770036145439' => 'RT-21 usage update test',
 ];
