@@ -8,4 +8,5 @@ return [
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
+    'quota_test_key' => 'Test value',
 ];
