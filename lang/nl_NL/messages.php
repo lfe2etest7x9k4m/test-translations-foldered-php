@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770039750915' => 'Hallo van basale vertaaltest',
   'e2e_modify_tr_1770039764548' => 'Gewijzigde waarde voor aanpassen test',
+  'e2e_ws_rt_1770039843198' => 'WebSocket real-time testwaarde',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
   'welcome' => 'Welkom bij onze applicatie',
