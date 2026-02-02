@@ -11,4 +11,5 @@ return [
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
     'e2e_quota_pause_1770039984654' => 'Quota pause test',
+    'e2e_rt05_ws_1770039997634' => 'RT-05 WebSocket test',
 ];
