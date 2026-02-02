@@ -9,4 +9,5 @@ return [
   'greeting' => 'Hello, :name!',
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
+    'e2e_pr_tr_1770015837361' => 'PR test value',
 ];
