@@ -8,5 +8,6 @@
   "ui": {
     "button_cancel": "Hætta við",
     "button_save": "Vista"
-  }
+  },
+  "welcome": "Bienvenue dans notre application"
 }

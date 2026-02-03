@@ -8,5 +8,6 @@
   "ui": {
     "button_cancel": "Cancel",
     "button_save": "Save"
-  }
+  },
+  "welcome": "Welcome to our application"
 }

@@ -8,5 +8,6 @@
   "ui": {
     "button_cancel": "Annuleren",
     "button_save": "Opslaan"
-  }
+  },
+  "welcome": "Welkom bij onze applicatie"
 }
