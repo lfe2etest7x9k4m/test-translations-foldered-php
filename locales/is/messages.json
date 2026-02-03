@@ -1,14 +1,12 @@
 {
-  "e2e_json_fmt_1770125974707": "JSON snið prófunargildi",
   "greeting": "Halló, :name!",
-  "settings": {
-    "description": null,
-    "enabled": true,
-    "max_retries": 3
-  },
   "ui": {
-    "button_cancel": "Hætta við",
-    "button_save": "Vista"
+    "button_save": "Vista",
+    "button_cancel": "Hætta við"
   },
-  "welcome": "Bienvenue dans notre application"
+  "settings": {
+    "max_retries": 3,
+    "enabled": true,
+    "description": null
+  }
 }

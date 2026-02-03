@@ -1,14 +1,12 @@
 {
-  "e2e_json_fmt_1770125974707": "JSON format test value",
   "greeting": "Hello, :name!",
-  "settings": {
-    "description": null,
-    "enabled": true,
-    "max_retries": 3
-  },
   "ui": {
-    "button_cancel": "Cancel",
-    "button_save": "Save"
+    "button_save": "Save",
+    "button_cancel": "Cancel"
   },
-  "welcome": "Welcome to our application"
+  "settings": {
+    "max_retries": 3,
+    "enabled": true,
+    "description": null
+  }
 }
