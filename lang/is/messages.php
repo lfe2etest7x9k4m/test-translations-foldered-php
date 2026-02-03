@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770144685993' => 'Halló frá grunnþýðingarprófi',
   'e2e_modify_tr_1770144707002' => 'Breytt gildi fyrir breytingarpróf',
+  'e2e_pr_tr_1770144992100' => 'PR prófunargildi',
   'e2e_rt05_ws_1770144946972' => 'RT-05 WebSocket próf',
   'e2e_rt21_ws_1770144872778' => 'RT-21 próf á notkunaruppfærslu',
   'e2e_rt24_ws_1770144845122' => 'RT-24 sjálfvirk áfyllingarpróf',
