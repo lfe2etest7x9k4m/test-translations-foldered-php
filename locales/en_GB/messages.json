@@ -9,5 +9,6 @@
     "button_cancel": "Cancel",
     "button_save": "Save"
   },
-  "welcome": "Welcome to our application"
+  "welcome": "Welcome to our application",
+  "e2e_json_fmt_1770125974707": "JSON format test value"
 }
