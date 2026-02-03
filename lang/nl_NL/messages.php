@@ -2,7 +2,9 @@
 
 return [
   'e2e_basic_tr_1770110220096' => 'Hallo van basale vertalingstest',
+  'e2e_err10_1770110634736' => 'Push afwijzingstest',
   'e2e_modify_tr_1770110233895' => 'Gewijzigde waarde voor wijzigingstest',
+  'e2e_multi_lang_1770110598295' => 'nl_NL original',
   'e2e_pr_tr_1770110518817' => 'PR testwaarde',
   'e2e_quota_pause_1770110458325' => 'Quota pauzetest',
   'e2e_rt05_ws_1770110471307' => 'RT-05 WebSocket test',
@@ -14,5 +16,4 @@ return [
   'greeting' => 'Hallo, :name!',
   'quota_test_key' => 'Testwaarde',
   'welcome' => 'Welkom bij onze applicatie',
-    'e2e_multi_lang_1770110598295' => 'nl_NL original',
 ];
