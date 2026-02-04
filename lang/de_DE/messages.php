@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770209358437' => 'Hallo von grundlegenden Übersetzungstest',
+  'e2e_bp03_1770209792476' => 'GitHub-Schutztest',
   'e2e_err10_1770209769363' => 'Push-Ablehnungstest',
   'e2e_modify_tr_1770209372139' => 'Ursprünglicher Wert für Modifikationstest',
   'e2e_pr_tr_1770209638698' => 'PR-Testwert',
