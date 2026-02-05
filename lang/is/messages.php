@@ -2,7 +2,9 @@
 
 return [
   'e2e_basic_tr_1770294868553' => 'Halló frá grunnþýðingarprófi',
+  'e2e_err10_1770295332708' => 'Próf á höfnun á ýtingu',
   'e2e_modify_tr_1770294882433' => 'Breytt gildi fyrir breytingapróf',
+  'e2e_multi_lang_1770295302722' => 'is original',
   'e2e_pr_tr_1770295229172' => 'PR prófunargildi',
   'e2e_quota_pause_1770295176798' => 'Próf á stöðvun kvóta',
   'e2e_rt05_ws_1770295188859' => 'RT-05 WebSocket próf',
@@ -14,5 +16,4 @@ return [
   'greeting' => 'Halló, :name!',
   'quota_test_key' => 'Prófunargildi',
   'welcome' => 'Velkomin í forritið okkar',
-    'e2e_multi_lang_1770295302722' => 'is original',
 ];
