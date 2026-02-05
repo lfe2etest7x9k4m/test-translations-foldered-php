@@ -14,5 +14,5 @@ return [
   'greeting' => 'Hello, :name!',
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
-    'e2e_multi_lang_1770295302722' => 'en_GB original',
+    'e2e_multi_lang_1770295302722' => 'British English manual edit',
 ];
