@@ -20,4 +20,5 @@ return [
     'button_save' => 'Save',
   ],
   'welcome' => 'Welcome to our application',
+    'e2e_err10_1770669026898' => 'Push rejection test',
 ];
