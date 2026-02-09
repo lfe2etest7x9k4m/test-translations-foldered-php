@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770669274998' => 'Bonjour de test de traduction basique',
+  'e2e_bp03_1770669949003' => 'Test de protection GitHub',
   'e2e_context_tr_1770669344360' => 'Veuillez utiliser un langage formel pour ce texte',
   'e2e_err10_1770669923472' => 'Test de rejet de push',
   'e2e_modify_tr_1770669289045' => 'Valeur initiale pour le test de modification',
