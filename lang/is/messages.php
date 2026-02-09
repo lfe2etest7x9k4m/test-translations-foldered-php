@@ -13,4 +13,5 @@ return [
   'greeting' => 'Halló, :name!',
   'quota_test_key' => 'Prófgildi',
   'welcome' => 'Velkomin í forritið okkar',
+    'e2e_update_precedence_key' => 'is original',
 ];
