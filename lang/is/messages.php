@@ -10,6 +10,7 @@ return [
   'emoji_test' => 'Halló 🌍 Heimur 🎉',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
+  'quota_test_key' => 'Prófunargildi',
   'status_active' => 'Virkt ✅',
   'status_error' => 'Villa ❌',
   'ui' => [
