@@ -8,7 +8,7 @@ return [
   'e2e_rt05_ws_1770650719497' => 'RT-05 test WebSocket',
   'e2e_rt21_ws_1770650542685' => 'Test aktualizace využití RT-21',
   'e2e_rt24_ws_1770650407941' => 'RT-24 automatické doplňování test',
-  'e2e_update_precedence_key' => 'de_DE original',
+  'e2e_update_precedence_key' => 'UPDATED VALUE',
   'e2e_ws_rt_1770650363700' => 'Hodnota testu WebSocket v reálném čase',
   'goodbye' => 'Na shledanou',
   'greeting' => 'Ahoj, :name!',
