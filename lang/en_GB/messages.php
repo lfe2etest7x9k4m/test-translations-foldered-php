@@ -25,4 +25,5 @@ return [
     'button_save' => 'Vista',
   ],
   'welcome' => 'Welcome to our application',
+    'e2e_err10_1770651712975' => 'Push rejection test',
 ];
