@@ -5,7 +5,7 @@ return [
   'e2e_context_tr_1770651136644' => 'Vinsamlegast notið formlegt mál fyrir þennan texta',
   'e2e_json_fmt_1770651151230' => 'JSON snið prófunargildi',
   'e2e_modify_tr_1770651080965' => 'Upphafsgildi fyrir breytingarpróf',
-  'e2e_multi_lang_1770651682452' => 'is original',
+  'e2e_multi_lang_1770651682452' => 'Bresk ensk handvirk breyting',
   'e2e_pr_tr_1770651603717' => 'PR prófunargildi',
   'e2e_quota_pause_1770651403427' => 'Prófun á kvótahlé',
   'e2e_rt05_ws_1770651530250' => 'RT-05 WebSocket próf',
