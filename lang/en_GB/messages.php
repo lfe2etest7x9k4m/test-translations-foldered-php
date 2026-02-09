@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770667455236' => 'Hello from basic translation test',
   'e2e_context_tr_1770667524750' => 'Please use formal language for this text',
+  'e2e_err10_1770668090087' => 'Push rejection test',
   'e2e_modify_tr_1770667469183' => 'Modified value for modify test',
   'e2e_multi_lang_1770668059177' => 'British English manual edit',
   'e2e_pr_tr_1770667991126' => 'PR test value',
@@ -16,5 +17,4 @@ return [
   'greeting' => 'Hello, :name!',
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
-    'e2e_err10_1770668090087' => 'Push rejection test',
 ];
