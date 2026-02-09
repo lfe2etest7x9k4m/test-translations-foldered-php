@@ -4,7 +4,7 @@ return [
   'e2e_basic_tr_1770660984286' => 'Hallo van basis vertaaltest',
   'e2e_context_tr_1770661089715' => 'Gelieve formele taal te gebruiken voor deze tekst',
   'e2e_modify_tr_1770661006169' => 'Initiële waarde voor wijzigingstest',
-  'e2e_multi_lang_1770661679886' => 'nl_NL original',
+  'e2e_multi_lang_1770661679886' => 'Britse Engelse handmatige bewerking',
   'e2e_pr_tr_1770661587186' => 'PR testwaarde',
   'e2e_quota_pause_1770661382028' => 'Quota pauzetest',
   'e2e_rt05_ws_1770661509103' => 'RT-05 WebSocket test',
