@@ -21,5 +21,4 @@ return [
     'button_save' => 'Save',
   ],
   'welcome' => 'Welcome to our application',
-    'e2e_bp03_1770669052829' => 'GitHub protection test',
 ];
