@@ -4,7 +4,7 @@ return [
   'e2e_basic_tr_1770660984286' => 'Ahoj ze základního testu překladu',
   'e2e_context_tr_1770661089715' => 'Prosím, použijte pro tento text formální jazyk.',
   'e2e_modify_tr_1770661006169' => 'Počáteční hodnota pro test úprav',
-  'e2e_quota_pause_1770661382028' => 'Test pauzy kvóty',
+  'e2e_rt05_ws_1770661509103' => 'RT-05 WebSocket test',
   'e2e_rt21_ws_1770661331767' => 'RT-21 test aktualizace využití',
   'e2e_rt24_ws_1770661196622' => 'RT-24 automatické doplňování test',
   'e2e_ws_rt_1770661144733' => 'Hodnota testu WebSocket v reálném čase',
