@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770680590799' => 'Hello from basic translation test',
   'e2e_context_tr_1770680659432' => 'Please use formal language for this text',
+  'e2e_err10_1770681216418' => 'Push rejection test',
   'e2e_modify_tr_1770680604357' => 'Initial value for modify test',
   'e2e_multi_lang_1770681186887' => 'American English manual edit',
   'e2e_pr_tr_1770681119958' => 'PR test value',
