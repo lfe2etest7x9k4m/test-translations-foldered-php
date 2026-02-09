@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770660984286' => 'Halló frá grunnþýðingarprófi',
   'e2e_context_tr_1770661089715' => 'Vinsamlegast notið formlegt mál fyrir þennan texta',
   'e2e_modify_tr_1770661006169' => 'Breytt gildi fyrir breytingapróf',
+  'e2e_rt24_ws_1770661196622' => 'RT-24 sjálfvirk áfyllingarpróf',
   'e2e_ws_rt_1770661144733' => 'WebSocket rauntíma prófunargildi',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
