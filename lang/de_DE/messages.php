@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770660984286' => 'Hallo von grundlegenden Übersetzungstests',
   'e2e_context_tr_1770661089715' => 'Bitte verwenden Sie für diesen Text eine formelle Sprache',
   'e2e_modify_tr_1770661006169' => 'Modifizierter Wert für Modifikationstest',
+  'e2e_multi_lang_1770661679886' => 'en_GB original',
   'e2e_pr_tr_1770661587186' => 'PR-Testwert',
   'e2e_quota_pause_1770661382028' => 'Quota-Pausentest',
   'e2e_rt05_ws_1770661509103' => 'RT-05 WebSocket-Test',
