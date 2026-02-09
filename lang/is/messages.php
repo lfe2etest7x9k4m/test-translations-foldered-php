@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770672012455' => 'Halló frá grunnþýðingarprófi',
+  'e2e_bp03_1770672682779' => 'GitHub verndarpróf',
   'e2e_context_tr_1770672082136' => 'Vinsamlegast notið formlegt mál fyrir þennan texta',
   'e2e_err10_1770672657480' => 'Próf á höfnun á ýtingu',
   'e2e_modify_tr_1770672026441' => 'Breytt gildi fyrir breytingarpróf',
