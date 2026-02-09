@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770651902986' => 'Halló frá grunnþýðingarprófi',
   'e2e_context_tr_1770651973176' => 'Vinsamlegast notið formlegt mál fyrir þennan texta',
+  'e2e_err10_1770652543024' => 'Próf á höfnun á ýtingu',
   'e2e_modify_tr_1770651917246' => 'Breytt gildi fyrir breytingapróf',
   'e2e_multi_lang_1770652511951' => 'is original',
   'e2e_pr_tr_1770652435502' => 'PR prófunargildi',
