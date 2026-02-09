@@ -2,7 +2,6 @@
 
 return [
   'e2e_basic_tr_1770632133714' => 'Ahoj z testu základního překladu',
-  'e2e_delete_tr_1770632170810' => 'Hodnota k odstranění',
   'e2e_modify_tr_1770632147566' => 'Upravená hodnota pro test úprav',
   'goodbye' => 'Na shledanou',
   'greeting' => 'Dobrý den, :name!',
