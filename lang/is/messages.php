@@ -8,6 +8,7 @@ return [
   'e2e_rt05_ws_1770651530250' => 'RT-05 WebSocket próf',
   'e2e_rt21_ws_1770651353763' => 'RT-21 notkunaruppfærslupróf',
   'e2e_rt24_ws_1770651218990' => 'RT-24 sjálfvirk áfyllingarpróf',
+  'e2e_update_precedence_key' => 'is original',
   'e2e_ws_rt_1770651174875' => 'WebSocket rauntíma prófunargildi',
   'emoji_test' => 'Halló 🌍 Heimur 🎉',
   'goodbye' => 'Bless',

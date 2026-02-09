@@ -9,6 +9,7 @@ return [
   'e2e_rt05_ws_1770651530250' => 'RT-05 prueba de WebSocket',
   'e2e_rt21_ws_1770651353763' => 'RT-21 prueba de actualización de uso',
   'e2e_rt24_ws_1770651218990' => 'RT-24 auto top-up test',
+  'e2e_update_precedence_key' => 'en_US original',
   'e2e_ws_rt_1770651174875' => 'WebSocket real-time test value',
   'e2e_yaml_fmt_1770651163098' => 'YAML format test value',
   'emoji_test' => 'Hello 🌍 World 🎉',
