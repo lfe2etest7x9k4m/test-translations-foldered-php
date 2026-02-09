@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770660984286' => 'Hola desde la prueba de traducción básica',
   'e2e_context_tr_1770661089715' => 'Por favor, utilice lenguaje formal para este texto',
+  'e2e_err10_1770661726448' => 'Push rejection test',
   'e2e_modify_tr_1770661006169' => 'Valor inicial para la prueba de modificación',
   'e2e_multi_lang_1770661679886' => 'Edición manual en inglés británico',
   'e2e_pr_tr_1770661587186' => 'Valor de prueba de PR',
