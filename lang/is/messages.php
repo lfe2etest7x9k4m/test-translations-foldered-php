@@ -4,7 +4,7 @@ return [
   'e2e_basic_tr_1770680590799' => 'Halló frá grunnþýðingarprófi',
   'e2e_context_tr_1770680659432' => 'Vinsamlegast notið formlegt mál fyrir þennan texta',
   'e2e_modify_tr_1770680604357' => 'Upphaflegt gildi fyrir breytingapróf',
-  'e2e_multi_lang_1770681186887' => 'is original',
+  'e2e_multi_lang_1770681186887' => 'Bresk ensk handvirk breyting',
   'e2e_pr_tr_1770681119958' => 'PR prófunargildi',
   'e2e_quota_pause_1770680916180' => 'Próf á stöðvun kvóta',
   'e2e_rt05_ws_1770681048027' => 'RT-05 WebSocket próf',
