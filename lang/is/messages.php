@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770672970476' => 'Halló frá grunnþýðingarprófi',
+  'e2e_delete_tr_1770673007653' => 'Gildi til að eyða',
   'e2e_modify_tr_1770672984466' => 'Upphafsgildi fyrir breytingapróf',
   'emoji_test' => 'Halló 🌍 Heimur 🎉',
   'goodbye' => 'Bless',
