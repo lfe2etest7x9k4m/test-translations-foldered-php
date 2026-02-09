@@ -24,4 +24,5 @@ return [
     'button_save' => 'Save',
   ],
   'welcome' => 'Welcome to our application',
+    'e2e_multi_lang_1770651682452' => 'en_US original',
 ];

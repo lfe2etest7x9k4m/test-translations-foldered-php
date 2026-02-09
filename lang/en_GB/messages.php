@@ -24,4 +24,5 @@ return [
     'button_save' => 'Vista',
   ],
   'welcome' => 'Welcome to our application',
+    'e2e_multi_lang_1770651682452' => 'en_GB original',
 ];
