@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770651066846' => 'Bonjour du test de traduction basique',
   'e2e_context_tr_1770651136644' => 'Veuillez utiliser un langage formel pour ce texte',
+  'e2e_err10_1770651712975' => 'Test de rejet de push',
   'e2e_json_fmt_1770651151230' => 'Valeur de test de format JSON',
   'e2e_modify_tr_1770651080965' => 'Valeur initiale pour le test de modification',
   'e2e_multi_lang_1770651682452' => 'British English manual edit',

@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770651066846' => 'Halló frá grunnþýðingarprófi',
   'e2e_context_tr_1770651136644' => 'Vinsamlegast notið formlegt mál fyrir þennan texta',
+  'e2e_err10_1770651712975' => 'Prófun á höfnun',
   'e2e_json_fmt_1770651151230' => 'JSON snið prófunargildi',
   'e2e_modify_tr_1770651080965' => 'Upphafsgildi fyrir breytingarpróf',
   'e2e_multi_lang_1770651682452' => 'Bresk ensk handvirk breyting',
