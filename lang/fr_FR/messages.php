@@ -13,5 +13,5 @@ return [
   'goodbye' => 'Au revoir',
   'greeting' => 'Bonjour, :name !',
   'quota_test_key' => 'Valeur de test',
-  'welcome' => 'Bienvenue dans notre application',
+  'welcome' => 'Bienvenue sur notre application',
 ];
