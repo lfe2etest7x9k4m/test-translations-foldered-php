@@ -1,10 +1,7 @@
 <?php
 
 return [
-  'e2e_basic_tr_1770676943002' => 'Hallo van basis vertaaltest',
-  'e2e_context_tr_1770677011329' => 'Gebruik alstublieft formele taal voor deze tekst',
-  'e2e_modify_tr_1770676956519' => 'Initiële waarde voor wijzigingstest',
-  'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
+  'goodbye' => 'Tot ziens',
   'welcome' => 'Welkom bij onze applicatie',
 ];
