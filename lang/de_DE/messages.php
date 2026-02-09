@@ -8,6 +8,7 @@ return [
   'e2e_rt05_ws_1770669735391' => 'RT-05 WebSocket-Test',
   'e2e_rt21_ws_1770669561016' => 'RT-21 Nutzungsaktualisierungstest',
   'e2e_rt24_ws_1770669425368' => 'RT-24 automatische Auflistungstest',
+  'e2e_update_precedence_key' => 'en_GB original',
   'e2e_ws_rt_1770669382231' => 'WebSocket Echtzeit-Testwert',
   'goodbye' => 'Auf Wiedersehen',
   'greeting' => 'Hallo, :name!',
