@@ -10,8 +10,8 @@ return [
   'e2e_rt24_ws_1770673877112' => 'RT-24 auto top-up test',
   'e2e_update_precedence_key' => 'en_GB original',
   'e2e_ws_rt_1770673832896' => 'Valor de prueba en tiempo real de WebSocket',
-  'goodbye' => 'Goodbye',
-  'greeting' => 'Hello, :name!',
+  'goodbye' => 'Adiós',
+  'greeting' => 'Hola, :name!',
   'quota_test_key' => 'Test value',
-  'welcome' => 'Welcome to our application',
+  'welcome' => 'Bienvenido a nuestra aplicación',
 ];
