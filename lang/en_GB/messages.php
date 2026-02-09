@@ -5,6 +5,7 @@ return [
   'e2e_context_tr_1770651136644' => 'Please use formal language for this text',
   'e2e_json_fmt_1770651151230' => 'JSON format test value',
   'e2e_modify_tr_1770651080965' => 'Modified value for modify test',
+  'e2e_multi_lang_1770651682452' => 'en_GB original',
   'e2e_pr_tr_1770651603717' => 'PR test value',
   'e2e_quota_pause_1770651403427' => 'Quota pause test',
   'e2e_rt05_ws_1770651530250' => 'RT-05 WebSocket test',
@@ -24,5 +25,4 @@ return [
     'button_save' => 'Vista',
   ],
   'welcome' => 'Welcome to our application',
-    'e2e_multi_lang_1770651682452' => 'en_GB original',
 ];
