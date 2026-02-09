@@ -9,6 +9,7 @@ return [
   'e2e_ws_rt_1770668482107' => 'WebSocket rauntíma prófunargildi',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
+  'quota_test_key' => 'Prófunargildi',
   'ui' => [
     'button_cancel' => 'Hætta við',
     'button_save' => 'Vista',
