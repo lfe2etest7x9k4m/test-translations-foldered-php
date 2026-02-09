@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770660984286' => 'Hello from basic translation test',
   'e2e_context_tr_1770661089715' => 'Please use formal language for this text',
   'e2e_modify_tr_1770661006169' => 'Modified value for modify test',
+  'e2e_pr_tr_1770661587186' => 'PR test value',
   'e2e_quota_pause_1770661382028' => 'Quota pause test',
   'e2e_rt05_ws_1770661509103' => 'RT-05 WebSocket test',
   'e2e_rt21_ws_1770661331767' => 'RT-21 usage update test',
@@ -13,5 +14,4 @@ return [
   'greeting' => 'Hello, :name!',
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
-    'e2e_pr_tr_1770661587186' => 'PR test value',
 ];
