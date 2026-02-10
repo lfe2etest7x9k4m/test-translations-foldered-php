@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770683831002' => 'Ahoj ze základního testu překladu',
+  'e2e_bp03_1770684479074' => 'Test ochrany GitHub',
   'e2e_context_tr_1770683899725' => 'Prosím, použijte pro tento text formální jazyk',
   'e2e_err10_1770684453828' => 'Test odmítnutí push',
   'e2e_json_fmt_1770683913453' => 'Hodnota testu formátu JSON',
