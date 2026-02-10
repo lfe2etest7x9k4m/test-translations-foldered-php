@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770681498090' => 'Hallo von grundlegenden Übersetzungs tests',
   'e2e_context_tr_1770681566536' => 'Bitte verwenden Sie für diesen Text eine formelle Sprache',
   'e2e_modify_tr_1770681511686' => 'Anfangswert für Modifikationstest',
+  'e2e_quota_pause_1770681826423' => 'Kontingentanhalten-Test',
   'e2e_rt21_ws_1770681778095' => 'RT-21 Nutzungsaktualisierungstest',
   'e2e_rt24_ws_1770681644433' => 'RT-24 automatische Aufladungstest',
   'e2e_ws_rt_1770681602831' => 'WebSocket Echtzeit-Testwert',
