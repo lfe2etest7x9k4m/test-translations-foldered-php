@@ -23,4 +23,5 @@ return [
     'button_save' => 'Vista',
   ],
   'welcome' => 'Velkomin í forritið okkar',
+    'e2e_multi_lang_1770684424767' => 'is original',
 ];
