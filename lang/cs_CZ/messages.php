@@ -8,7 +8,7 @@ return [
   'e2e_quota_pause_1770684154871' => 'Test pozastavení kvóty',
   'e2e_rt21_ws_1770684109655' => 'Test aktualizace využití RT-21',
   'e2e_rt24_ws_1770683976122' => 'Test automatického dobíjení RT-24',
-  'e2e_update_precedence_key' => 'en_GB original',
+  'e2e_update_precedence_key' => 'UPDATED VALUE',
   'e2e_ws_rt_1770683935870' => 'Hodnota testu WebSocket v reálném čase',
   'goodbye' => 'Na shledanou',
   'greeting' => 'Ahoj, :name!',

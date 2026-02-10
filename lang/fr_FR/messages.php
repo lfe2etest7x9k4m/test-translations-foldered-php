@@ -8,7 +8,7 @@ return [
   'e2e_quota_pause_1770684154871' => 'Test de pause de quota',
   'e2e_rt21_ws_1770684109655' => 'Test de mise à jour d\'utilisation RT-21',
   'e2e_rt24_ws_1770683976122' => 'Test de recharge automatique RT-24',
-  'e2e_update_precedence_key' => 'en_GB original',
+  'e2e_update_precedence_key' => 'VALEUR MISE À JOUR',
   'e2e_ws_rt_1770683935870' => 'Valeur de test en temps réel WebSocket',
   'goodbye' => 'Au revoir',
   'greeting' => 'Bonjour, :name !',

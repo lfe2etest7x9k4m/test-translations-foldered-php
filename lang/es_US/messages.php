@@ -9,7 +9,7 @@ return [
   'e2e_quota_pause_1770684154871' => 'Prueba de pausa de cuota',
   'e2e_rt21_ws_1770684109655' => 'RT-21 usage update test',
   'e2e_rt24_ws_1770683976122' => 'RT-24 auto top-up test',
-  'e2e_update_precedence_key' => 'en_US original',
+  'e2e_update_precedence_key' => 'UPDATED VALUE',
   'e2e_ws_rt_1770683935870' => 'WebSocket real-time test value',
   'e2e_yaml_fmt_1770683924944' => 'YAML format test value',
   'emoji_test' => 'Hola 🌍 Mundo 🎉',

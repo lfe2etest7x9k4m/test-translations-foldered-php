@@ -8,7 +8,7 @@ return [
   'e2e_quota_pause_1770684154871' => 'Próf á stöðvun á kvóta',
   'e2e_rt21_ws_1770684109655' => 'RT-21 notkunaruppfærslupróf',
   'e2e_rt24_ws_1770683976122' => 'RT-24 sjálfvirk áfyllingarpróf',
-  'e2e_update_precedence_key' => 'is original',
+  'e2e_update_precedence_key' => 'UPDATED VALUE',
   'e2e_ws_rt_1770683935870' => 'WebSocket rauntíma prófunargildi',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
