@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770683831002' => 'Halló frá grunnþýðingarprófi',
   'e2e_context_tr_1770683899725' => 'Vinsamlegast notið formlega tungu fyrir þennan texta',
+  'e2e_err10_1770684453828' => 'Push höfnun próf',
   'e2e_json_fmt_1770683913453' => 'JSON prófunargildi',
   'e2e_modify_tr_1770683844515' => 'Breytt gildi fyrir breytingapróf',
   'e2e_multi_lang_1770684424767' => 'Bresk ensk handvirk breyting',
