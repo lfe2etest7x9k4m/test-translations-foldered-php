@@ -8,6 +8,7 @@ return [
   'e2e_quota_pause_1770684154871' => 'Quota pauzetest',
   'e2e_rt21_ws_1770684109655' => 'RT-21 gebruiksupdate test',
   'e2e_rt24_ws_1770683976122' => 'RT-24 automatische opwaarderingstest',
+  'e2e_update_precedence_key' => 'nl_NL original',
   'e2e_ws_rt_1770683935870' => 'WebSocket real-time testwaarde',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
