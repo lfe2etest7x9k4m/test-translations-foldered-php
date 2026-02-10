@@ -25,4 +25,5 @@ return [
     'button_save' => 'Save',
   ],
   'welcome' => 'Welcome to our application',
+    'e2e_bp03_1770684479074' => 'GitHub protection test',
 ];
