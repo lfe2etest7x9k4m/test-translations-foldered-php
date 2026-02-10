@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770683831002' => 'Hello from basic translation test',
+  'e2e_bp03_1770684479074' => 'GitHub protection test',
   'e2e_context_tr_1770683899725' => 'Please use formal language for this text',
   'e2e_err10_1770684453828' => 'Push rejection test',
   'e2e_json_fmt_1770683913453' => 'JSON format test value',
