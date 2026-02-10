@@ -5,7 +5,7 @@ return [
   'e2e_context_tr_1770683899725' => 'Prosím, použijte pro tento text formální jazyk',
   'e2e_json_fmt_1770683913453' => 'Hodnota testu formátu JSON',
   'e2e_modify_tr_1770683844515' => 'Počáteční hodnota pro test úprav',
-  'e2e_multi_lang_1770684424767' => 'en_GB original',
+  'e2e_multi_lang_1770684424767' => 'Britská anglická manuální úprava',
   'e2e_pr_tr_1770684358000' => 'Hodnota testu PR',
   'e2e_quota_pause_1770684154871' => 'Test pozastavení kvóty',
   'e2e_rt21_ws_1770684109655' => 'Test aktualizace využití RT-21',
