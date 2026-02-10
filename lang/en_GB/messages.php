@@ -5,6 +5,7 @@ return [
   'e2e_context_tr_1770683899725' => 'Please use formal language for this text',
   'e2e_json_fmt_1770683913453' => 'JSON format test value',
   'e2e_modify_tr_1770683844515' => 'Modified value for modify test',
+  'e2e_multi_lang_1770684424767' => 'en_GB original',
   'e2e_pr_tr_1770684358000' => 'PR test value',
   'e2e_quota_pause_1770684154871' => 'Quota pause test',
   'e2e_rt21_ws_1770684109655' => 'RT-21 usage update test',
@@ -23,5 +24,4 @@ return [
     'button_save' => 'Save',
   ],
   'welcome' => 'Welcome to our application',
-    'e2e_multi_lang_1770684424767' => 'en_GB original',
 ];

@@ -5,6 +5,7 @@ return [
   'e2e_context_tr_1770683899725' => 'Veuillez utiliser un langage formel pour ce texte',
   'e2e_json_fmt_1770683913453' => 'Valeur de test du format JSON',
   'e2e_modify_tr_1770683844515' => 'Valeur initiale pour le test de modification',
+  'e2e_multi_lang_1770684424767' => 'en_GB original',
   'e2e_pr_tr_1770684358000' => 'Valeur de test PR',
   'e2e_quota_pause_1770684154871' => 'Test de pause de quota',
   'e2e_rt21_ws_1770684109655' => 'Test de mise à jour d\'utilisation RT-21',
