@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770683831002' => 'Hallo van basis vertaaltest',
   'e2e_context_tr_1770683899725' => 'Gebruik alstublieft formele taal voor deze tekst',
+  'e2e_err10_1770684453828' => 'Push afwijzingstest',
   'e2e_json_fmt_1770683913453' => 'JSON-testwaarde',
   'e2e_modify_tr_1770683844515' => 'Gewijzigde waarde voor wijzigingstest',
   'e2e_multi_lang_1770684424767' => 'Britse Engelse handmatige bewerking',

@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770683831002' => 'Hallo vom grundlegenden Übersetzungstest',
   'e2e_context_tr_1770683899725' => 'Bitte verwenden Sie für diesen Text eine formelle Sprache',
+  'e2e_err10_1770684453828' => 'Push-Ablehnungsprüfung',
   'e2e_json_fmt_1770683913453' => 'JSON-Format-Testwert',
   'e2e_modify_tr_1770683844515' => 'Počáteční hodnota pro test úprav',
   'e2e_multi_lang_1770684424767' => 'Britisch-englische manuelle Bearbeitung',
