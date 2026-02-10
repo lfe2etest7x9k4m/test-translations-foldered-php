@@ -2,8 +2,10 @@
 
 return [
   'e2e_basic_tr_1770681498090' => 'Ahoj ze základního testu překladu',
+  'e2e_bp03_1770682151444' => 'Test ochrany GitHubu',
   'e2e_context_tr_1770681566536' => 'Prosím, použijte pro tento text formální jazyk',
   'e2e_err10_1770682133566' => 'Test odmítnutí push',
+  'e2e_json_fmt_1770681580332' => 'Hodnota testu formátu JSON',
   'e2e_modify_tr_1770681511686' => 'Upravená hodnota pro test úprav',
   'e2e_multi_lang_1770682104030' => 'Britská anglická manuální úprava',
   'e2e_pr_tr_1770682029871' => 'Hodnota testu PR',
@@ -16,5 +18,9 @@ return [
   'goodbye' => 'Na shledanou',
   'greeting' => 'Ahoj, :name!',
   'quota_test_key' => 'Testovací hodnota',
+  'ui' => [
+    'button_cancel' => 'Zrušit',
+    'button_save' => 'Uložit',
+  ],
   'welcome' => 'Vítejte v naší aplikaci',
 ];
