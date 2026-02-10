@@ -12,6 +12,7 @@ return [
   'emoji_test' => 'Hola 🌍 Mundo 🎉',
   'goodbye' => 'Adiós',
   'greeting' => 'Hola, :name!',
+  'quota_test_key' => 'Valor de prueba',
   'status_active' => 'Activo ✅',
   'status_error' => 'Error ❌',
   'ui' => [
