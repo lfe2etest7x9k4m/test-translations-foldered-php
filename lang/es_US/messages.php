@@ -5,6 +5,7 @@ return [
   'e2e_context_tr_1770683899725' => 'Por favor, utilice lenguaje formal para este texto.',
   'e2e_json_fmt_1770683913453' => 'Valor de prueba de formato JSON',
   'e2e_modify_tr_1770683844515' => 'Valor inicial para la prueba de modificación',
+  'e2e_rt05_ws_1770684286779' => 'Prueba de WebSocket RT-05',
   'e2e_rt21_ws_1770684109655' => 'RT-21 usage update test',
   'e2e_rt24_ws_1770683976122' => 'RT-24 auto top-up test',
   'e2e_ws_rt_1770683935870' => 'WebSocket real-time test value',
