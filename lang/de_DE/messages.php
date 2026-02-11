@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770830117637' => 'Hallo vom grundlegenden Übersetzungstest',
+  'e2e_bp03_1770830908369' => 'GitHub-Schutz-Test',
   'e2e_context_tr_1770830207933' => 'Bitte verwenden Sie für diesen Text die Höflichkeitsform (Sie)',
   'e2e_err10_1770830861872' => 'Push-Ablehnungstest',
   'e2e_json_fmt_1770830229385' => 'JSON-Format-Testwert',
