@@ -8,11 +8,10 @@ return [
   'e2e_quota_pause_1770830495398' => 'Limiet pauze test',
   'e2e_rt21_ws_1770830444008' => 'Test van de update voor RT-21-gebruik',
   'e2e_rt24_ws_1770830310296' => 'RT-24 auto top-up test',
-  'e2e_update_precedence_key' => 'BIJGEWERKTE WAARDE',
+  'e2e_update_precedence_key' => 'nl_NL original',
   'e2e_ws_rt_1770830265998' => 'WebSocket real-time testwaarde',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
   'quota_test_key' => 'Testwaarde',
   'welcome' => 'Welkom bij onze applicatie',
-    'e2e_update_precedence_key' => 'nl_NL original',
 ];
