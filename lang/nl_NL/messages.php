@@ -10,7 +10,7 @@ return [
   'e2e_rt05_ws_1770832144595' => 'RT-05 WebSocket test',
   'e2e_rt21_ws_1770831968173' => 'RT-21 gebruiksupdate test',
   'e2e_rt24_ws_1770831834519' => 'RT-24 automatische aanvulling test',
-  'e2e_update_precedence_key' => 'nl_NL original',
+  'e2e_update_precedence_key' => 'BIJGEWERKTE WAARDE',
   'e2e_ws_rt_1770831789237' => 'WebSocket real-time testwaarde',
   'e2e_yaml_fmt_1770831770830' => 'YAML formaat testwaarde',
   'emoji_test' => 'Hallo 🌍 Wereld 🎉',
