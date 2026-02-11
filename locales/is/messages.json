@@ -1,12 +1,12 @@
 {
   "greeting": "Halló, :name!",
-  "ui": {
-    "button_save": "Vista",
-    "button_cancel": "Hætta við"
-  },
   "settings": {
-    "max_retries": 3,
+    "description": null,
     "enabled": true,
-    "description": null
+    "max_retries": 3
+  },
+  "ui": {
+    "button_cancel": "Hætta við",
+    "button_save": "Vista"
   }
 }
