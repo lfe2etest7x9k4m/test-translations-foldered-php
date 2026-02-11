@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770832935404' => 'Hallo van de basisvertalingstest',
+  'e2e_bp03_1770833730531' => 'GitHub-beschermingstest',
   'e2e_context_tr_1770833025443' => 'Test: Gebruik formele taal voor deze tekst',
   'e2e_err10_1770833676361' => 'Test voor afwijzing van push',
   'e2e_json_fmt_1770833046162' => 'JSON formaat testwaarde',
