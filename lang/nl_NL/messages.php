@@ -22,4 +22,5 @@ return [
     'button_save' => 'Opslaan',
   ],
   'welcome' => 'Welkom bij onze applicatie',
+    'e2e_multi_lang_1770833636721' => 'nl_NL original',
 ];
