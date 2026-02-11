@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770830117637' => 'Bonjour, provenant du test de traduction de base',
   'e2e_context_tr_1770830207933' => '#DO_NOT_TRANSLATE',
+  'e2e_err10_1770830861872' => 'Test de rejet de push',
   'e2e_modify_tr_1770830138322' => 'Valeur modifiée pour le test',
   'e2e_multi_lang_1770830816961' => 'Modification manuelle en anglais britannique',
   'e2e_pr_tr_1770830691905' => 'Valeur de test PR',
