@@ -5,6 +5,7 @@ return [
   'e2e_context_tr_1770831710114' => 'Gebruik alstublieft formele taal voor deze tekst',
   'e2e_json_fmt_1770831730931' => 'JSON formaat testwaarde',
   'e2e_modify_tr_1770831641062' => 'Gewijzigde waarde voor wijzigingstest',
+  'e2e_multi_lang_1770832347201' => 'nl_NL original',
   'e2e_quota_pause_1770832019474' => 'Quota pauze test',
   'e2e_rt05_ws_1770832144595' => 'RT-05 WebSocket test',
   'e2e_rt21_ws_1770831968173' => 'RT-21 gebruiksupdate test',
