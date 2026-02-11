@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770832935404' => 'Hallo van de basisvertalingstest',
   'e2e_context_tr_1770833025443' => 'Test: Gebruik formele taal voor deze tekst',
+  'e2e_err10_1770833676361' => 'Test voor afwijzing van push',
   'e2e_json_fmt_1770833046162' => 'JSON formaat testwaarde',
   'e2e_modify_tr_1770832956093' => 'Gewijzigde waarde voor wijzigingstest',
   'e2e_multi_lang_1770833636721' => 'Handmatige bewerking in Brits-Engels',

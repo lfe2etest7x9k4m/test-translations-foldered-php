@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770832935404' => 'Bonjour depuis le test de traduction de base',
+  'e2e_err10_1770833676361' => 'Test de rejet de push',
   'e2e_modify_tr_1770832956093' => 'Valeur modifiée pour le test de modification',
   'e2e_multi_lang_1770833636721' => 'Édition manuelle en anglais britannique',
   'e2e_rt05_ws_1770833443865' => 'Test WebSocket RT-05',

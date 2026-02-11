@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770832935404' => 'Halló frá prófun á grunnþýðingu',
   'e2e_context_tr_1770833025443' => 'Vinsamlegast er beðið um að nota formlegt tungumál fyrir þennan texta',
+  'e2e_err10_1770833676361' => 'Prófun á höfnun við ýtingu',
   'e2e_modify_tr_1770832956093' => 'Breytt gildi fyrir próf á breytingu',
   'e2e_multi_lang_1770833636721' => 'Handvirk breyting á ensku (bresk útgáfa)',
   'e2e_rt05_ws_1770833443865' => 'RT-05 WebSocket prófun',
