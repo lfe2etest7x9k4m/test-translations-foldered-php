@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770830117637' => 'Halló frá einföldu þýðingarprófi',
+  'e2e_context_tr_1770830207933' => 'Vinsamlegast notið formlegt orðalag fyrir þennan texta',
   'e2e_modify_tr_1770830138322' => 'Breytt gildi fyrir breytingarprófun',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
