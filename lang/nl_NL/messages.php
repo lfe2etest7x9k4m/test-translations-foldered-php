@@ -23,4 +23,5 @@ return [
   ],
   'welcome' => 'Welkom bij onze applicatie',
     'e2e_update_precedence_key' => 'nl_NL original',
+    'e2e_multi_lang_1770832347201' => 'nl_NL original',
 ];
