@@ -6,4 +6,5 @@ return [
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
+    'e2e_delete_tr_1770902448818' => 'Value to delete',
 ];
