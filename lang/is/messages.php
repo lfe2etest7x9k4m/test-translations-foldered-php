@@ -9,5 +9,6 @@ return [
   'e2e_ws_rt_1770934861895' => 'Prófunargildi fyrir WebSocket í rauntíma',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
+  'quota_test_key' => 'Prófunargildi',
   'welcome' => 'Velkomin í forritið okkar',
 ];
