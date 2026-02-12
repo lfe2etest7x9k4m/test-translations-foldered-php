@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770895375839' => 'Hallo aus dem grundlegenden Übersetzungstest',
   'e2e_context_tr_1770895459392' => 'Bitte verwenden Sie für diesen Text eine formelle Sprache',
   'e2e_modify_tr_1770895394411' => 'Geänderter Wert für Test zur Änderung',
+  'e2e_rt24_ws_1770895568031' => 'RT-24 Test der automatischen Aufladung',
   'e2e_ws_rt_1770895521076' => 'Testwert für WebSocket-Echtzeit',
   'goodbye' => 'Auf Wiedersehen',
   'greeting' => 'Hallo, :name!',
