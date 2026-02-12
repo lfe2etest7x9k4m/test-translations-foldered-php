@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770889990898' => 'Hello from basic translation test',
+  'e2e_context_tr_1770890075053' => 'Please utilize formal language for this text',
   'e2e_modify_tr_1770890009680' => 'Modified value for modify test',
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
