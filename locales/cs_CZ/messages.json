@@ -1,4 +1,5 @@
 {
+  "e2e_json_fmt_1770934819102": "Testovací hodnota formátu JSON",
   "greeting": "Ahoj, :name!",
   "settings": {
     "description": null,
