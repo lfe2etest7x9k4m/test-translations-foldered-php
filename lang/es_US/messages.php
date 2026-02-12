@@ -9,7 +9,7 @@ return [
   'e2e_rt24_ws_1770932388610' => 'RT-24 prueba de recarga automática',
   'e2e_update_precedence_key' => 'UPDATED VALUE',
   'e2e_ws_rt_1770932330234' => 'Valor de prueba en tiempo real de WebSocket',
-  'goodbye' => 'Chao',
+  'goodbye' => 'Adiós',
   'greeting' => 'Hola, :name!',
   'quota_test_key' => 'Valor de prueba',
   'welcome' => 'Bienvenido a nuestra aplicación',
