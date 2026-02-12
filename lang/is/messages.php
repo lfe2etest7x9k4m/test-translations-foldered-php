@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770937549973' => 'Halló frá einföldu þýðingarprófi',
   'e2e_context_tr_1770937633743' => 'Vinsamlegast notið formlegt orðalag í þessum texta',
+  'e2e_err10_1770938129186' => 'Prófun á höfnun við úthöfnun',
   'e2e_modify_tr_1770937568565' => 'Breytt gildi fyrir breytingarpróf',
   'e2e_multi_lang_1770938088673' => 'Handvirk breyting á ensku (bresk útgáfa)',
   'e2e_pr_tr_1770938000612' => 'Prófunargildi fyrir PR',
