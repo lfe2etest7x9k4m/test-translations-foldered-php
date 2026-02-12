@@ -7,6 +7,7 @@ return [
   'e2e_quota_pause_1770892532737' => 'Prueba de suspensión de cuota',
   'e2e_rt21_ws_1770892484367' => 'Prueba de actualización de uso de RT-21',
   'e2e_rt24_ws_1770892350132' => 'Prueba de recarga automática RT-24',
+  'e2e_update_precedence_key' => 'UPDATED VALUE',
   'e2e_ws_rt_1770892304220' => 'Valor de prueba en tiempo real de WebSocket',
   'goodbye' => 'Adiós',
   'greeting' => 'Hola, :name!',

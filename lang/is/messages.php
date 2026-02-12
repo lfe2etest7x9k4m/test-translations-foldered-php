@@ -7,10 +7,10 @@ return [
   'e2e_quota_pause_1770892532737' => 'Próf á biðkvóta',
   'e2e_rt21_ws_1770892484367' => 'RT-21 prófun á uppfærslu á notkun',
   'e2e_rt24_ws_1770892350132' => 'RT-24 sjálfvirk áfyllingarathugun',
+  'e2e_update_precedence_key' => 'is original',
   'e2e_ws_rt_1770892304220' => 'Prófunargildi fyrir WebSocket í rauntíma',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
   'quota_test_key' => 'Prófunargildi',
   'welcome' => 'Velkomin í forritið okkar',
-    'e2e_update_precedence_key' => 'is original',
 ];
