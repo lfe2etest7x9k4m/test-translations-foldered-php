@@ -1,12 +1,12 @@
 {
-  "greeting": "Ahoj, :name!",
+  "greeting": "Bonjour, :name !",
   "settings": {
     "description": null,
     "enabled": true,
     "max_retries": 3
   },
   "ui": {
-    "button_cancel": "Zrušit",
-    "button_save": "Zobrazit"
+    "button_cancel": "Annuler",
+    "button_save": "Vue"
   }
 }

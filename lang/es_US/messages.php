@@ -1,7 +1,7 @@
 <?php
 
 return [
-  'goodbye' => 'Chao',
+  'goodbye' => 'Adiós',
   'greeting' => 'Hola, :name!',
   'welcome' => 'Bienvenido a nuestra aplicación',
 ];
