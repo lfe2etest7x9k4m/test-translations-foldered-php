@@ -2,7 +2,7 @@
 
 return [
   'e2e_basic_tr_1770905866691' => 'Hallo vom grundlegenden Übersetzungstest',
-  'e2e_modify_tr_1770905885368' => 'Anfangswert für den Änderungstest',
+  'e2e_modify_tr_1770905885368' => 'Geänderter Wert für Modifikationstest',
   'goodbye' => 'Auf Wiedersehen',
   'greeting' => 'Hallo, :name!',
   'welcome' => 'Willkommen in unserer App',
