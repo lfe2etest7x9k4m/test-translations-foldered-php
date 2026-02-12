@@ -8,7 +8,7 @@ return [
   'e2e_quota_pause_1770892532737' => 'Test der Kontingentunterbrechung',
   'e2e_rt21_ws_1770892484367' => 'Test der RT-21 Nutzungsaktualisierung',
   'e2e_rt24_ws_1770892350132' => 'RT-24 automatische Aufladungstest',
-  'e2e_update_precedence_key' => 'de_DE original',
+  'e2e_update_precedence_key' => 'AKTUALISIERTER WERT',
   'e2e_ws_rt_1770892304220' => 'WebSocket-Echtzeit-Testwert',
   'goodbye' => 'Auf Wiedersehen',
   'greeting' => 'Hallo, :name!',
