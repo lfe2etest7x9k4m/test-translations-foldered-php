@@ -9,5 +9,6 @@ return [
   'e2e_ws_rt_1770892304220' => 'Testovací hodnota WebSocket v reálném čase',
   'goodbye' => 'Na shledanou',
   'greeting' => 'Ahoj, :name!',
+  'quota_test_key' => 'Testovací hodnota',
   'welcome' => 'Vítejte v naší aplikaci',
 ];
