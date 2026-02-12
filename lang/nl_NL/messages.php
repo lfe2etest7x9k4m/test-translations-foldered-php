@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770936575390' => 'Hallo vanuit de basisvertalingstest',
   'e2e_context_tr_1770936659285' => 'Gelieve formele taal te gebruiken voor deze tekst',
+  'e2e_err10_1770937181081' => 'Test van pushafwijzing',
   'e2e_modify_tr_1770936594000' => 'Gewijzigde waarde voor test voor wijziging',
   'e2e_multi_lang_1770937120790' => 'Handmatige bewerking in Brits-Engels',
   'e2e_pr_tr_1770937027329' => 'PR testwaarde',
