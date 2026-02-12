@@ -1,4 +1,5 @@
 {
+  "e2e_json_fmt_1770885363420": "JSON format test value",
   "greeting": "Hello, :name!",
   "settings": {
     "description": null,
@@ -8,6 +9,5 @@
   "ui": {
     "button_cancel": "Cancel",
     "button_save": "Save"
-  },
-  "e2e_json_fmt_1770885363420": "JSON format test value"
+  }
 }
