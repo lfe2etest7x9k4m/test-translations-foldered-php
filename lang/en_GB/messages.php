@@ -6,4 +6,5 @@ return [
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
+    'e2e_context_tr_1770932268735' => 'Please use formal language for this text',
 ];
