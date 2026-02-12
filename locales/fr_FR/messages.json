@@ -1,13 +1,13 @@
 {
   "e2e_json_fmt_1770932287605": "Valeur de test du format JSON",
-  "greeting": "Bonjour, :name !",
+  "greeting": "Halló, :name!",
   "settings": {
     "description": null,
     "enabled": true,
     "max_retries": 3
   },
   "ui": {
-    "button_cancel": "Annuler",
-    "button_save": "Sauvegarder"
+    "button_cancel": "Hætta við",
+    "button_save": "Vista"
   }
 }
