@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770905258532' => 'Halló frá grunnþýðingarprófi',
   'e2e_context_tr_1770905349030' => 'Vinsamlegast notið formála tungu fyrir þennan texta.',
   'e2e_modify_tr_1770905283212' => 'Breytt gildi fyrir próf á breytingu',
+  'e2e_rt21_ws_1770905607719' => 'RT-21 prófun á notkunaruppfærslu',
   'e2e_rt24_ws_1770905471138' => 'RT-24 prófun á sjálfvirkri fyllingu',
   'e2e_ws_rt_1770905410786' => 'Gildi fyrir prófun á rauntíma í WebSocket',
   'goodbye' => 'Bless',
