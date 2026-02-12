@@ -7,7 +7,7 @@ return [
   'e2e_pr_tr_1770935224546' => 'Valeur de test de Pull Request',
   'e2e_rt21_ws_1770935059723' => 'Test de mise à jour d\'utilisation de RT-21',
   'e2e_rt24_ws_1770934921714' => 'Test de recharge automatique RT-24',
-  'e2e_update_precedence_key' => 'fr_FR original',
+  'e2e_update_precedence_key' => 'VALEUR ACTUALISÉE',
   'e2e_ws_rt_1770934861895' => 'Valeur de test WebSocket en temps réel',
   'goodbye' => 'Au revoir',
   'greeting' => 'Bonjour, :name !',
