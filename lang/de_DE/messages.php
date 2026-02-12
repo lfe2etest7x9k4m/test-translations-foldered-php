@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770932184623' => 'Hallo aus dem grundlegenden Übersetzungstest',
+  'e2e_context_tr_1770932268735' => 'Bitte verwenden Sie für diesen Text eine formelle Sprache.',
   'e2e_modify_tr_1770932203572' => 'Geänderter Wert für den Änderungstest',
   'goodbye' => 'Auf Wiedersehen',
   'greeting' => 'Hallo, :name!',
