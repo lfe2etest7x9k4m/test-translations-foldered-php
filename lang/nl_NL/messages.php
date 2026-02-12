@@ -1,8 +1,7 @@
 <?php
 
 return [
-  'e2e_basic_tr_1770895893091' => 'Hallo vanuit de basisvertalingstest',
-  'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
+  'goodbye' => 'Tot ziens',
   'welcome' => 'Welkom bij onze applicatie',
 ];
