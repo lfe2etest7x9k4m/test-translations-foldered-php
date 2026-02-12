@@ -1,4 +1,5 @@
 {
+  "e2e_json_fmt_1770904357893": "Valor de prueba en formato JSON",
   "greeting": "Hello, :name!",
   "settings": {
     "description": null,
