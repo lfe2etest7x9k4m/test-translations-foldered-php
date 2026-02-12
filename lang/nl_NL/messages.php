@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770889645325' => 'Hallo van de basisvertalingstest',
+  'e2e_context_tr_1770889729503' => 'Gebruik alstublieft formele taal voor deze tekst',
   'e2e_modify_tr_1770889663876' => 'Gewijzigde waarde voor test voor wijziging',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
