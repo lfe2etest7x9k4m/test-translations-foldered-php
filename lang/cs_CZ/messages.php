@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770889245040' => 'Ahoj z testu základního překladu',
+  'e2e_modify_tr_1770889263608' => 'Počáteční hodnota pro test úprav',
   'goodbye' => 'Na shledanou',
   'greeting' => 'Ahoj, :name!',
   'welcome' => 'Vítejte v naší aplikaci',
