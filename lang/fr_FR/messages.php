@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770936575390' => 'Bonjour depuis le test de traduction basique',
   'e2e_context_tr_1770936659285' => 'Veuillez utiliser un langage formel pour ce texte',
   'e2e_modify_tr_1770936594000' => 'Valeur modifiée pour le test de modification',
+  'e2e_multi_lang_1770937120790' => 'fr_FR original',
   'e2e_pr_tr_1770937027329' => 'Valeur de test de la PR',
   'e2e_quota_pause_1770936970939' => 'Test de pause de quota',
   'e2e_rt05_ws_1770936983108' => 'Test RT-05 WebSocket',
@@ -15,5 +16,4 @@ return [
   'greeting' => 'Bonjour, :name !',
   'quota_test_key' => 'Valeur test',
   'welcome' => 'Bienvenue dans notre application',
-    'e2e_multi_lang_1770937120790' => 'fr_FR original',
 ];
