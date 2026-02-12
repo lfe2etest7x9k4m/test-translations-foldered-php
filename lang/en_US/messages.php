@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770907115778' => 'Hello from a basic translation test',
   'e2e_context_tr_1770907200084' => 'Please use formal language for this text',
   'e2e_modify_tr_1770907134537' => 'Modified value for modify test',
+  'e2e_ws_rt_1770907262535' => 'WebSocket real-time test value',
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
