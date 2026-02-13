@@ -7,6 +7,7 @@ return [
   'e2e_pr_tr_1770956345284' => 'PR test value',
   'e2e_rt21_ws_1770956239885' => 'Test der RT-21 Nutzungsaktualisierungen',
   'e2e_rt24_ws_1770956105060' => 'RT-24 Test der automatischen Aufladung',
+  'e2e_update_precedence_key' => 'de_DE original',
   'e2e_ws_rt_1770956046777' => 'WebSocket Echtzeit-Testwert',
   'goodbye' => 'Tschüss',
   'greeting' => 'Hallo, :name!',
