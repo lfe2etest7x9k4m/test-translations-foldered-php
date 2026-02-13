@@ -15,4 +15,5 @@ return [
   'greeting' => 'Bonjour, :name !',
   'quota_test_key' => 'Test value',
   'welcome' => 'Bienvenue dans notre application',
+    'e2e_multi_lang_1770969396641' => 'fr_FR original',
 ];
