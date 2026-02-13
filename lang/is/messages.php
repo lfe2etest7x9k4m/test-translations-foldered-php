@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770959539364' => 'Halló frá almennri þýðingarprófi',
+  'e2e_modify_tr_1770959558021' => 'Upphaflegt gildi fyrir breytingarprófun',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
   'welcome' => 'Velkomin í forritið okkar',
