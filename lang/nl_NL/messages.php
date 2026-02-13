@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770960553017' => 'Hallo vanuit de basisvertalingstest',
+  'e2e_bp03_1770961201062' => 'Test van GitHub-beveiliging',
   'e2e_context_tr_1770960636653' => 'Gebruik alstublieft formele taal voor deze tekst',
   'e2e_err10_1770961168219' => 'Test van afgewezen push',
   'e2e_modify_tr_1770960571634' => 'Gewijzigde waarde voor wijzigingstest',
