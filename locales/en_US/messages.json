@@ -1,12 +1,12 @@
 {
   "greeting": "Hello, :name!",
-  "ui": {
-    "button_save": "Save",
-    "button_cancel": "Cancel"
-  },
   "settings": {
-    "max_retries": 3,
+    "description": null,
     "enabled": true,
-    "description": null
+    "max_retries": 3
+  },
+  "ui": {
+    "button_cancel": "Cancel",
+    "button_save": "Save"
   }
 }
