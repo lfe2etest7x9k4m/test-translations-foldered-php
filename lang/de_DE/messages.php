@@ -9,8 +9,8 @@ return [
   'e2e_rt24_ws_1770954308288' => 'RT-24 Auto-Aufladungstest',
   'e2e_update_precedence_key' => 'AKTUALISIERTER WERT',
   'e2e_ws_rt_1770954251669' => 'WebSocket Echtzeit-Testwert',
-  'goodbye' => 'Bless',
-  'greeting' => 'Halló, :name!',
+  'goodbye' => 'Auf Wiedersehen',
+  'greeting' => 'Hallo, :name!',
   'quota_test_key' => 'Testwert',
-  'welcome' => 'Velkomin í forritið okkar',
+  'welcome' => 'Willkommen in unserer App',
 ];
