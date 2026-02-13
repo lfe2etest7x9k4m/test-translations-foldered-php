@@ -9,7 +9,7 @@ return [
   'e2e_rt05_ws_1770963271213' => 'RT-05 WebSocket prófun',
   'e2e_rt21_ws_1770963202829' => 'RT-21: Próf á uppfærslu notkunar',
   'e2e_rt24_ws_1770963068204' => 'RT-24 próf fyrir sjálfvirk áfylling',
-  'e2e_update_precedence_key' => 'is original',
+  'e2e_update_precedence_key' => 'UPDATED VALUE',
   'e2e_ws_rt_1770963009626' => 'Gildi fyrir WebSocket rauntíma prófun',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
