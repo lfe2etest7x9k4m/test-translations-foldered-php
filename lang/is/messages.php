@@ -7,6 +7,7 @@ return [
   'e2e_pr_tr_1770945357366' => 'Prófunargildi fyrir pull request',
   'e2e_rt21_ws_1770945206409' => 'RT-21 notkunaruppfærslingarpróf',
   'e2e_rt24_ws_1770945071878' => 'RT-24 prófun á sjálfvirkri áfyllingu',
+  'e2e_update_precedence_key' => 'is original',
   'e2e_ws_rt_1770945013159' => 'WebSocket rauntíma prófunarverðmæti',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
