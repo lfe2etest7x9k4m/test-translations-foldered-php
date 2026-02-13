@@ -1,13 +1,12 @@
 {
-  "e2e_json_fmt_1770956003771": "Prófunargildi á JSON sniði",
   "greeting": "Halló, :name!",
-  "settings": {
-    "description": null,
-    "enabled": true,
-    "max_retries": 3
-  },
   "ui": {
-    "button_cancel": "Hætta við",
-    "button_save": "Vista"
+    "button_save": "Vista",
+    "button_cancel": "Hætta við"
+  },
+  "settings": {
+    "max_retries": 3,
+    "enabled": true,
+    "description": null
   }
 }
