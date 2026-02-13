@@ -13,4 +13,5 @@ return [
   'welcome' => 'Welcome to our application',
     'e2e_quota_pause_1770945258828' => 'Quota pause test',
     'e2e_rt05_ws_1770945270610' => 'RT-05 WebSocket test',
+    'e2e_pr_tr_1770945357366' => 'PR test value',
 ];
