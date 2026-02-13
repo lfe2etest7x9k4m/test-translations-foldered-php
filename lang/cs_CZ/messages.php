@@ -2,6 +2,6 @@
 
 return [
   'goodbye' => 'Na shledanou',
-  'greeting' => 'Ahoj, :name!',
+  'greeting' => 'Dobrý den, :name!',
   'welcome' => 'Vítejte v naší aplikaci',
 ];
