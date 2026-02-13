@@ -1,0 +1,7 @@
+{
+  "greeting": "Hola, :name!",
+  "ui": {
+    "button_cancel": "Cancelar",
+    "button_save": "Vista"
+  }
+}
