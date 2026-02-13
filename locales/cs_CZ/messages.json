@@ -2,6 +2,6 @@
   "greeting": "Ahoj, :name!",
   "ui": {
     "button_cancel": "Zrušit",
-    "button_save": "Zobrazit"
+    "button_save": "Uložit"
   }
 }
