@@ -7,7 +7,7 @@ return [
   'e2e_pr_tr_1770966435435' => 'Testovací hodnota pro PR',
   'e2e_rt21_ws_1770966323051' => 'Test aktualizace používání RT-21',
   'e2e_rt24_ws_1770966188867' => 'Test automatického doplnění RT-24',
-  'e2e_update_precedence_key' => 'původní v IS',
+  'e2e_update_precedence_key' => 'NOVÁ HODNOTA',
   'e2e_ws_rt_1770966133450' => 'Hodnota testu WebSocket v reálném čase',
   'goodbye' => 'Na shledanou',
   'greeting' => 'Ahoj, :name!',
