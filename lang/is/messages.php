@@ -1,21 +1,7 @@
 <?php
 
 return [
-  'e2e_basic_tr_1770950601446' => 'Halló frá grunnþýðingarprófunar',
-  'e2e_bp03_1770951221878' => 'Próf á verndun á GitHub',
-  'e2e_context_tr_1770950684959' => 'Vinsamlegast notið formlegt orðalag í þessum texta',
-  'e2e_err10_1770951199338' => 'Push rejection test',
-  'e2e_modify_tr_1770950620107' => 'Breytt gildi fyrir breytingarprófun',
-  'e2e_multi_lang_1770951130237' => 'Handvirk breyting á breskri ensku',
-  'e2e_pr_tr_1770951042554' => 'PR prófunarverðmæti',
-  'e2e_quota_pause_1770950986879' => 'Kvóta-hlé próf',
-  'e2e_rt05_ws_1770950998991' => 'RT-05 próf á WebSocket',
-  'e2e_rt21_ws_1770950937517' => 'Próf á uppfærslu á notkun RT-21',
-  'e2e_rt24_ws_1770950803186' => 'RT-24 sjálfvirk áfylling prófun',
-  'e2e_update_precedence_key' => 'is original',
-  'e2e_ws_rt_1770950746416' => 'Gildi fyrir WebSocket rauntíma prófun',
-  'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
-  'quota_test_key' => 'Prófunargildi',
+  'goodbye' => 'Bless',
   'welcome' => 'Velkomin í forritið okkar',
 ];
