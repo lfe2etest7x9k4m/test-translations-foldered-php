@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1770951914687' => 'Ahoj z testu základního překladu',
   'e2e_context_tr_1770951998563' => 'Prosím, použijte pro tento text formální jazyk',
+  'e2e_err10_1770952527411' => 'Test odmítnutí push',
   'e2e_modify_tr_1770951933314' => 'Upravená hodnota pro test úprav',
   'e2e_multi_lang_1770952479173' => 'Manuální úprava britské angličtiny',
   'e2e_pr_tr_1770952401920' => 'Testovací hodnota PR',
