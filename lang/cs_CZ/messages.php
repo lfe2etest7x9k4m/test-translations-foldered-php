@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770956852549' => 'Zdravím z testu základního překladu',
   'e2e_context_tr_1770956936505' => 'Prosím, použijte pro tento text formální jazyk',
   'e2e_modify_tr_1770956871409' => 'Upravená hodnota pro test úpravy',
+  'e2e_multi_lang_1770957440809' => 'Britská angličtina – manuální úprava',
   'e2e_pr_tr_1770957346747' => 'Testovací hodnota PR',
   'e2e_quota_pause_1770957248571' => 'Test pozastavení kvóty',
   'e2e_rt05_ws_1770957260529' => 'RT-05 WebSocket test',

@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770956852549' => 'Hola desde la prueba de traducción básica',
   'e2e_context_tr_1770956936505' => 'Please use formal language for this text',
   'e2e_modify_tr_1770956871409' => 'Valor modificado para la prueba de modificación',
+  'e2e_multi_lang_1770957440809' => 'Edición manual en inglés británico',
   'e2e_pr_tr_1770957346747' => 'Valor de prueba de pull request',
   'e2e_quota_pause_1770957248571' => 'Prueba de pausa de cuota',
   'e2e_rt05_ws_1770957260529' => 'Prueba de WebSocket RT-05',
