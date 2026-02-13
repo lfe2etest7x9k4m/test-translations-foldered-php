@@ -15,4 +15,5 @@ return [
   'greeting' => 'Halló, :name!',
   'quota_test_key' => 'Valeur de test',
   'welcome' => 'Velkomin í forritið okkar',
+    'e2e_multi_lang_1770945445425' => 'fr_FR original',
 ];
