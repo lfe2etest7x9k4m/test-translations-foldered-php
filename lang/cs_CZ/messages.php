@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1770950601446' => 'Zdravím z testu základního překladu',
+  'e2e_bp03_1770951221878' => 'Test ochrany na GitHubu',
   'e2e_context_tr_1770950684959' => 'Prosím, použijte pro tento text formální jazyk.',
   'e2e_err10_1770951199338' => 'Test zamítnutí push',
   'e2e_modify_tr_1770950620107' => 'Upravená hodnota pro test úpravy',
