@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770954106128' => 'Ahoj ze základního testu překladu',
   'e2e_context_tr_1770954190058' => 'Prosím, použijte pro tento text formální jazyk',
   'e2e_modify_tr_1770954124704' => 'Upravená hodnota pro test úpravy',
+  'e2e_rt21_ws_1770954443264' => 'RT-21 usage update test',
   'e2e_rt24_ws_1770954308288' => 'RT-24 automatické doplnění test',
   'e2e_ws_rt_1770954251669' => 'Hodnota testu WebSocket v reálném čase',
   'goodbye' => 'Nashledanou',
