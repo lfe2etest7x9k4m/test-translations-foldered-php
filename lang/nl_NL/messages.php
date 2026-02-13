@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770951914687' => 'Hallo vanuit de basisvertalingstest',
   'e2e_context_tr_1770951998563' => 'Gebruik alstublieft formele taal voor deze tekst',
   'e2e_modify_tr_1770951933314' => 'Gewijzigde waarde voor wijzigingstest',
+  'e2e_ws_rt_1770952060545' => 'WebSocket real-time testwaarde',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
   'welcome' => 'Welkom bij onze applicatie',
