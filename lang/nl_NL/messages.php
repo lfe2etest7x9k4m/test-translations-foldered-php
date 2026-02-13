@@ -14,4 +14,5 @@ return [
   'greeting' => 'Hallo, :name!',
   'quota_test_key' => 'Testwaarde',
   'welcome' => 'Welkom bij onze applicatie',
+    'e2e_update_precedence_key' => 'nl_NL original',
 ];
