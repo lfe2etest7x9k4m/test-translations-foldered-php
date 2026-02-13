@@ -12,4 +12,5 @@ return [
   'greeting' => 'Hallo, :name!',
   'quota_test_key' => 'Testwert',
   'welcome' => 'Willkommen in unserer App',
+    'e2e_update_precedence_key' => 'de_DE original',
 ];
