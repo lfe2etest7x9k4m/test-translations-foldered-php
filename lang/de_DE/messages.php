@@ -4,6 +4,7 @@ return [
   'e2e_basic_tr_1770950601446' => 'Hallo von einem einfachen Übersetzungstest',
   'e2e_context_tr_1770950684959' => 'Bitte verwenden Sie für diesen Text eine formelle Sprache',
   'e2e_modify_tr_1770950620107' => 'Geänderter Wert für Modifikationstest',
+  'e2e_multi_lang_1770951130237' => 'de_DE original',
   'e2e_pr_tr_1770951042554' => 'PR test value',
   'e2e_quota_pause_1770950986879' => 'Test der Quotenunterbrechung',
   'e2e_rt05_ws_1770950998991' => 'RT-05 WebSocket-Test',
@@ -15,5 +16,4 @@ return [
   'greeting' => 'Hallo, :name!',
   'quota_test_key' => 'Testwert',
   'welcome' => 'Willkommen in unserer App',
-    'e2e_multi_lang_1770951130237' => 'de_DE original',
 ];
