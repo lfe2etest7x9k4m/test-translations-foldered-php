@@ -7,7 +7,7 @@ return [
   'e2e_pr_tr_1770961001952' => 'PR prófunargildi',
   'e2e_rt21_ws_1770960889075' => 'Prófun á notkunaruppfærslu RT-21',
   'e2e_rt24_ws_1770960754839' => 'RT-24 sjálfvirk áfyllingartilraun',
-  'e2e_update_precedence_key' => 'is original',
+  'e2e_update_precedence_key' => 'UPPFÆRT Gildi',
   'e2e_ws_rt_1770960698319' => 'Gildi fyrir prófun á rauntíma í WebSocket',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
