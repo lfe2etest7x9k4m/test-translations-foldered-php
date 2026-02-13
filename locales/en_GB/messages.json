@@ -8,5 +8,6 @@
   "ui": {
     "button_cancel": "Cancel",
     "button_save": "Save"
-  }
+  },
+  "e2e_json_fmt_1770960655406": "JSON format test value"
 }
