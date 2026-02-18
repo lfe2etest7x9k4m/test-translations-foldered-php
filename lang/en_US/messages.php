@@ -4,7 +4,7 @@ return [
   'e2e_basic_tr_1771448913410' => 'Hello from basic translation test',
   'e2e_context_tr_1771449109580' => 'Please use formal language for this text',
   'e2e_modify_tr_1771448980286' => 'Modified value for modify test',
-  'e2e_multi_lang_1771449911416' => 'en_US original',
+  'e2e_multi_lang_1771449911416' => 'American English manual edit',
   'e2e_pr_tr_1771449736297' => 'PR test value',
   'e2e_rt21_ws_1771449516693' => 'RT-21 usage update test',
   'e2e_rt24_ws_1771449380371' => 'RT-24 auto top-up test',
