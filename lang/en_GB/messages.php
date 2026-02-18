@@ -5,4 +5,5 @@ return [
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
+    'e2e_modify_tr_1771446744392' => 'Initial value for modify test',
 ];
