@@ -13,4 +13,5 @@ return [
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
     'e2e_update_precedence_key' => 'UPDATED VALUE',
+    'e2e_multi_lang_1771440146733' => 'en_US original',
 ];
