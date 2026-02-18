@@ -13,4 +13,5 @@ return [
   'quota_test_key' => 'Prófunargildi',
   'welcome' => 'Velkomin í forritið okkar',
     'e2e_update_precedence_key' => 'is original',
+    'e2e_multi_lang_1771449911416' => 'is original',
 ];
