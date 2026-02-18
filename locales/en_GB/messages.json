@@ -1,13 +1,12 @@
 {
   "greeting": "Hello, :name!",
-  "settings": {
-    "description": null,
-    "enabled": true,
-    "max_retries": 3
-  },
   "ui": {
-    "button_cancel": "Cancel",
-    "button_save": "Save"
+    "button_save": "Save",
+    "button_cancel": "Cancel"
   },
-  "e2e_json_fmt_1771445013379": "JSON format test value"
+  "settings": {
+    "max_retries": 3,
+    "enabled": true,
+    "description": null
+  }
 }
