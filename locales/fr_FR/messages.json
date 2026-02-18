@@ -1,5 +1,5 @@
 {
-  "greeting": "Bonjour, :name!",
+  "greeting": "Bonjour, :name !",
   "settings": {
     "description": null,
     "enabled": true,
@@ -7,6 +7,6 @@
   },
   "ui": {
     "button_cancel": "Annuler",
-    "button_save": "Sauvegarder"
+    "button_save": "Enregistrer"
   }
 }
