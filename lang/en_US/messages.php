@@ -2,5 +2,6 @@
 
 return [
   'goodbye' => 'Goodbye',
-  'welcome' => 'Welcome',
+  'greeting' => 'Hello, :name!',
+  'welcome' => 'Welcome to our application',
 ];
