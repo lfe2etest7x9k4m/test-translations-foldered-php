@@ -7,6 +7,7 @@ return [
   'e2e_pr_tr_1771447582593' => 'PR-testwaarde',
   'e2e_rt21_ws_1771447407035' => 'RT-21 gebruiksupdate test',
   'e2e_rt24_ws_1771447270045' => 'RT-24 automatische bijvultest',
+  'e2e_update_precedence_key' => 'nl_NL original',
   'e2e_ws_rt_1771447174874' => 'WebSocket real-time testwaarde',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
