@@ -1,4 +1,4 @@
 e2e_yaml_fmt_1771447104150: Valeur de test du format YAML
-emoji_test: "Bonjour \U0001F30D Monde ! \U0001F389"
+emoji_test: "Bonjour \U0001F30D Monde \U0001F389"
 status_active: Actif ✅
 status_error: Erreur ❌
