@@ -2,7 +2,6 @@
 
 return [
   'e2e_basic_tr_1771441707438' => 'Hallo von grundlegenden Übersetzungstests',
-  'e2e_delete_tr_1771441897179' => 'Zu löschender Wert',
   'e2e_modify_tr_1771441773878' => 'Geänderter Wert für Änderungstest',
   'goodbye' => 'Auf Wiedersehen',
   'greeting' => 'Hallo, :name!',
