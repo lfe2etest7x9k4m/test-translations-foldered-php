@@ -16,4 +16,5 @@ return [
   'greeting' => 'Hello, :name!',
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
+    'e2e_bp03_1771440337943' => 'GitHub protection test',
 ];
