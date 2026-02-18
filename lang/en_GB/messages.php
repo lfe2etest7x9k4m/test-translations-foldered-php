@@ -11,4 +11,5 @@ return [
   'greeting' => 'Hello, :name!',
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
+    'e2e_quota_pause_1771447479476' => 'Quota pause test',
 ];
