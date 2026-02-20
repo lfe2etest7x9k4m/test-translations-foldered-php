@@ -8,5 +8,6 @@ return [
   'e2e_ws_rt_1771586065154' => 'Valeur de test en temps réel WebSocket',
   'goodbye' => 'Au revoir',
   'greeting' => 'Bonjour, :name !',
+  'quota_test_key' => 'Valeur test',
   'welcome' => 'Bienvenue sur notre application',
 ];
