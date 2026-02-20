@@ -1,5 +1,5 @@
 {
-  "greeting": "Bonjour, :name !",
+  "greeting": "Bonjour, :name!",
   "ui": {
     "button_cancel": "Annuler",
     "button_save": "Enregistrer"
