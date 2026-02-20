@@ -1,3 +1,4 @@
 emoji_test: "Hello \U0001F30D World \U0001F389"
 status_active: Active ✅
 status_error: Error ❌
+e2e_yaml_fmt_1771577735441: "YAML format test value"
