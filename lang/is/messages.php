@@ -6,7 +6,7 @@ return [
   'e2e_modify_tr_1771585854090' => 'Breytt gildi fyrir próf á breytingu',
   'e2e_pr_tr_1771586450884' => 'Prófunargildi fyrir PR',
   'e2e_rt21_ws_1771586165320' => 'RT-21 notkunaruppfærslingarpróf',
-  'e2e_update_precedence_key' => 'is original',
+  'e2e_update_precedence_key' => 'UPDATED VALUE',
   'e2e_ws_rt_1771586065154' => 'Prófunargildi fyrir WebSocket í rauntíma',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
