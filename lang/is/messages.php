@@ -4,7 +4,7 @@ return [
   'e2e_basic_tr_1771592551426' => 'Halló frá grunnþýðingarprófi',
   'e2e_context_tr_1771592691794' => 'Please use formal language for this text',
   'e2e_modify_tr_1771592583408' => 'Breytt gildi fyrir próf á breytingu',
-  'e2e_multi_lang_1771593239233' => 'is original',
+  'e2e_multi_lang_1771593239233' => 'Handvirk breyting á breskri ensku',
   'e2e_pr_tr_1771593125763' => 'PR prófunargildi',
   'e2e_rt21_ws_1771592892403' => 'RT-21 prófun á notkunaruppfærslu',
   'e2e_update_precedence_key' => 'is original',
