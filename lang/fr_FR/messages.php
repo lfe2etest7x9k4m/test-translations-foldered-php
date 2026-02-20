@@ -11,4 +11,5 @@ return [
   'greeting' => 'Bonjour, :name!',
   'quota_test_key' => 'Test value',
   'welcome' => 'Bienvenue sur notre application',
+    'e2e_update_precedence_key' => 'fr_FR original',
 ];
