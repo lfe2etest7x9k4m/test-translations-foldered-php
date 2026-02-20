@@ -6,6 +6,7 @@ return [
   'e2e_modify_tr_1771589059033' => 'Modified value for modify test',
   'e2e_pr_tr_1771589684794' => 'PR test value',
   'e2e_rt21_ws_1771589391570' => 'RT-21 usage update test',
+  'e2e_update_precedence_key' => 'en_US original',
   'e2e_ws_rt_1771589296018' => 'WebSocket real-time test value',
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
