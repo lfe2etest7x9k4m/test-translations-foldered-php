@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1771594630036' => 'Halló frá einfaldri þýðingarprófun',
+  'e2e_bp03_1771595531910' => 'GitHub verndunarprófun',
   'e2e_context_tr_1771594775878' => 'Vinsamlegast notið formlegt tungumál fyrir þennan texta',
   'e2e_err10_1771595482020' => 'Prófun á höfnun við ýtingu',
   'e2e_modify_tr_1771594661950' => 'Breytt gildi fyrir breytingarprófun',
