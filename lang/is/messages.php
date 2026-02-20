@@ -4,7 +4,7 @@ return [
   'e2e_basic_tr_1771589026776' => 'Halló frá einföldu þýðingarprófi',
   'e2e_context_tr_1771589182974' => 'Vinsamlegast notið formlega tungu fyrir þennan texta',
   'e2e_modify_tr_1771589059033' => 'Breytt gildi fyrir breyta próf',
-  'e2e_multi_lang_1771589802852' => 'is original',
+  'e2e_multi_lang_1771589802852' => 'Bresk ensk handvirk breyting',
   'e2e_pr_tr_1771589684794' => 'PR prófun',
   'e2e_rt21_ws_1771589391570' => 'Próf á uppfærslu á notkun RT-21',
   'e2e_update_precedence_key' => 'is original',
