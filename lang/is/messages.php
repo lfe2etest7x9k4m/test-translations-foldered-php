@@ -12,4 +12,5 @@ return [
   'quota_test_key' => 'Test value',
   'welcome' => 'Velkomin í forritið okkar',
     'e2e_update_precedence_key' => 'is original',
+    'e2e_multi_lang_1771585269716' => 'is original',
 ];
