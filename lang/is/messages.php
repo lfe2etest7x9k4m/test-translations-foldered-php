@@ -2,6 +2,7 @@
 
 return [
   'e2e_basic_tr_1771577538441' => 'Halló frá einföldu þýðingarprófi',
+  'e2e_delete_tr_1771577640345' => 'Gildi til að eyða',
   'e2e_modify_tr_1771577575407' => 'Breytt gildi fyrir próf á breytingu',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name!',
