@@ -12,4 +12,5 @@ return [
   'quota_test_key' => 'Testwert',
   'welcome' => 'Willkommen bei unserer Anwendung',
     'e2e_update_precedence_key' => 'de_DE original',
+    'e2e_multi_lang_1771595374468' => 'de_DE original',
 ];
