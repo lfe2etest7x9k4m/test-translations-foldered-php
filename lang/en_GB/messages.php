@@ -15,4 +15,5 @@ return [
   'greeting' => 'Hello, :name!',
   'quota_test_key' => 'Test value',
   'welcome' => 'Welcome to our application',
+    'e2e_err10_1771582833007' => 'Push rejection test',
 ];
