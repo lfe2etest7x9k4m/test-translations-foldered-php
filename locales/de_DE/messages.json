@@ -1,8 +1,0 @@
-{
-  "e2e_json_fmt_1771589223658": "Testwert im JSON-Format",
-  "greeting": "Hallo, :name!",
-  "ui": {
-    "button_cancel": "Abbrechen",
-    "button_save": "Speichern"
-  }
-}
