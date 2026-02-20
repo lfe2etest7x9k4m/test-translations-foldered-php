@@ -4,7 +4,7 @@ return [
   'e2e_basic_tr_1771589026776' => 'Hello from basic translation test',
   'e2e_context_tr_1771589182974' => 'Please use formal language for this text',
   'e2e_modify_tr_1771589059033' => 'Modified value for modify test',
-  'e2e_multi_lang_1771589802852' => 'en_GB original',
+  'e2e_multi_lang_1771589802852' => 'British English manual edit',
   'e2e_pr_tr_1771589684794' => 'PR test value',
   'e2e_quota_pause_1771589627310' => 'Quota pause test',
   'e2e_rt05_ws_1771589640043' => 'RT-05 WebSocket test',
