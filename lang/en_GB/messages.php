@@ -9,4 +9,5 @@ return [
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
     'e2e_rt24_ws_1771584841674' => 'RT-24 auto top-up test',
+    'e2e_rt21_ws_1771584860937' => 'RT-21 usage update test',
 ];
