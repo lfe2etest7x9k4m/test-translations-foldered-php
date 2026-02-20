@@ -8,4 +8,5 @@ return [
   'goodbye' => 'Goodbye',
   'greeting' => 'Hello, :name!',
   'welcome' => 'Welcome to our application',
+    'e2e_rt24_ws_1771577219775' => 'RT-24 auto top-up test',
 ];
