@@ -1,11 +1,6 @@
 {
   "e2e_json_fmt_1771582173266": "JSON format test value",
   "greeting": "Hallo, :name!",
-  "settings": {
-    "description": null,
-    "enabled": true,
-    "max_retries": 3
-  },
   "ui": {
     "button_cancel": "Abbrechen",
     "button_save": "Speichern"
