@@ -1,13 +1,12 @@
 {
-  "e2e_json_fmt_1771582173266": "JSON-formaat testwaarde",
   "greeting": "Hallo, :name!",
-  "settings": {
-    "description": null,
-    "enabled": true,
-    "max_retries": 3
-  },
   "ui": {
-    "button_cancel": "Annuleren",
-    "button_save": "Opslaan"
+    "button_save": "Opslaan",
+    "button_cancel": "Annuleren"
+  },
+  "settings": {
+    "max_retries": 3,
+    "enabled": true,
+    "description": null
   }
 }
