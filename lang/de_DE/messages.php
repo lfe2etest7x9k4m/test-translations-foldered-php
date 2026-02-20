@@ -3,5 +3,5 @@
 return [
   'goodbye' => 'Tschüss',
   'greeting' => 'Hallo, :name!',
-  'welcome' => 'Willkommen in unserer Anwendung',
+  'welcome' => 'Willkommen in unserer App',
 ];
