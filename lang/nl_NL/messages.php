@@ -2,7 +2,7 @@
 
 return [
   'e2e_basic_tr_1771579701544' => 'Hallo vanuit de basisvertalingstest',
-  'e2e_modify_tr_1771579733292' => 'Initiële waarde voor wijzigingstest',
+  'e2e_modify_tr_1771579733292' => 'Gewijzigde waarde voor wijzigingstest',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name!',
   'welcome' => 'Welkom bij onze applicatie',
