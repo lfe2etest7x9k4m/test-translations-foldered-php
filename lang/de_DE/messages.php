@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1771585816870' => 'Hallo aus dem einfachen Übersetzungstest',
   'e2e_context_tr_1771585967381' => 'Bitte verwenden Sie für diesen Text eine formelle Sprache',
+  'e2e_err10_1771586649922' => 'Push-Ablehnungs-Test',
   'e2e_modify_tr_1771585854090' => 'Geänderter Wert für Test der Änderung',
   'e2e_multi_lang_1771586579160' => 'Britisch-englische manuelle Bearbeitung',
   'e2e_pr_tr_1771586450884' => 'PR Testwert',

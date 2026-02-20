@@ -3,6 +3,7 @@
 return [
   'e2e_basic_tr_1771585816870' => 'Halló frá þýðingarprófun',
   'e2e_context_tr_1771585967381' => 'Vinsamlegast notið formlegt tungutak fyrir þennan texta',
+  'e2e_err10_1771586649922' => 'Prófun á höfnun við ýtingu',
   'e2e_modify_tr_1771585854090' => 'Breytt gildi fyrir próf á breytingu',
   'e2e_multi_lang_1771586579160' => 'Bresk enska (handvirk breyting)',
   'e2e_pr_tr_1771586450884' => 'Prófunargildi fyrir PR',
