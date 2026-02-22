@@ -1,5 +1,4 @@
 {
-  "empty_value": "",
   "farewell": "Au revoir, :name !",
   "greeting": "Bonjour, :name !",
   "items": {
@@ -7,6 +6,10 @@
     "other": "{count} éléments"
   },
   "legacy_key": "Cette clé existe uniquement en nl_NL",
+  "push2_items": {
+    "one": "{count} widget",
+    "other": "{count} widgets"
+  },
   "push_greeting": "Bonjour, :name ! Bienvenue à bord.",
   "push_html": "Cliquez \u003cstrong\u003eici\u003c/strong\u003e pour continuer",
   "special_chars": "C'est un test avec \u003cangle\u003e et plus",
