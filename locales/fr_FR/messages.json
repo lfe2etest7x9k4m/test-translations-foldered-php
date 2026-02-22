@@ -1,0 +1,17 @@
+{
+  "empty_value": "",
+  "farewell": "Au revoir, :name!",
+  "greeting": "Bonjour, :name!",
+  "items": {
+    "one": "{count} item",
+    "other": "{count} items"
+  },
+  "legacy_key": "Cette clé existe uniquement en nl_NL",
+  "special_chars": "C'est un test avec \u0026lt;angle\u0026gt; \u0026amp; plus",
+  "ui": {
+    "button_cancel": "Annuler",
+    "button_delete": "Supprimer",
+    "button_save": "Enregistrer"
+  },
+  "welcome_html": "Bienvenue sur \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
+}
