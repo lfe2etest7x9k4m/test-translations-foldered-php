@@ -1,19 +1,22 @@
 {
-  "empty_value": "",
   "farewell": "Tot ziens, :name!",
-  "greeting": "Hoi :name!",
+  "greeting": "Hallo, :name!",
   "items": {
     "one": "{count} item",
     "other": "{count} items"
   },
   "legacy_key": "This key only exists in nl_NL",
+  "push2_items": {
+    "one": "{count} widget",
+    "other": "{count} widgets"
+  },
   "push_count": 42,
   "push_greeting": "Hallo :name! Welkom aan boord.",
   "push_html": "Klik \u003cstrong\u003ehier\u003c/strong\u003e om verder te gaan",
   "settings": {
     "description": null,
     "enabled": true,
-    "max_retries": 3
+    "max_retries": 7
   },
   "special_chars": "Het is een test met \u003cangle\u003e \u0026 meer",
   "ui": {
