@@ -1,12 +1,15 @@
 {
   "empty_value": "",
   "farewell": "Tot ziens, :name!",
-  "greeting": "Hallo, :name!",
+  "greeting": "Hoi daar, :name!",
   "items": {
     "one": "{count} item",
     "other": "{count} items"
   },
   "legacy_key": "This key only exists in nl_NL",
+  "push_count": 42,
+  "push_greeting": "Hallo, :name! Welkom aan boord.",
+  "push_html": "Klik \u003cstrong\u003ehier\u003c/strong\u003e om door te gaan",
   "settings": {
     "description": null,
     "enabled": true,
