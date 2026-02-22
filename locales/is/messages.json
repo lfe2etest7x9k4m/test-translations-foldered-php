@@ -4,7 +4,7 @@
   "greeting": "Halló, :name!",
   "items": {
     "one": "{count} atriði",
-    "other": "{count} atrikli"
+    "other": "{count} atriði"
   },
   "legacy_key": "Þessi lykill er aðeins til í nl_NL",
   "settings": {
