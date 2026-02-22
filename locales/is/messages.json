@@ -1,22 +1,22 @@
 {
   "empty_value": "",
-  "farewell": "Goodbye, :name!",
+  "farewell": "Bless, :name!",
   "greeting": "Halló, :name!",
   "items": {
-    "one": "{count} item",
-    "other": "{count} items"
+    "one": "{count} atriði",
+    "other": "{count} atriði"
   },
-  "legacy_key": "This key only exists in nl_NL",
+  "legacy_key": "Þessi lykill er aðeins til í nl_NL",
   "settings": {
     "description": null,
     "enabled": true,
     "max_retries": 3
   },
-  "special_chars": "It's a test with \u003cangle\u003e \u0026 more",
+  "special_chars": "Þetta er próf með \u003cangle\u003e \u0026 fleira",
   "ui": {
-    "button_cancel": "Cancel",
-    "button_delete": "Delete",
+    "button_cancel": "Hætta við",
+    "button_delete": "Eyða",
     "button_save": "Vista"
   },
-  "welcome_html": "Welcome to \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
+  "welcome_html": "Velkomin í \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
 }
