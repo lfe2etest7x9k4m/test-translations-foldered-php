@@ -1,2 +1,5 @@
-status_active: "Virkt"
-status_error: "Villa"
+emoji_test: Halló heimur
+notification: Þú ert með :count ný skilaboð
+status_active: Virkt
+status_error: Villa
+status_pending: Í bið
