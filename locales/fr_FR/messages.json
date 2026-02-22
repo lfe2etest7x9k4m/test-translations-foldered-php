@@ -1,12 +1,14 @@
 {
   "empty_value": "",
   "farewell": "Au revoir :name !",
-  "greeting": "Hello :name!",
+  "greeting": "Salut, :name !",
   "items": {
     "one": "{count} item",
     "other": "{count} items"
   },
   "legacy_key": "This key only exists in nl_NL",
+  "push_greeting": "Bonjour, :name ! Bienvenue !",
+  "push_html": "Cliquez \u003cstrong\u003eici\u003c/strong\u003e pour continuer",
   "special_chars": "It's a test with \u003cangle\u003e \u0026 more",
   "ui": {
     "button_cancel": "Cancel",
