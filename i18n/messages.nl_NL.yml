@@ -1,5 +1,5 @@
 emoji_test: Hallo Wereld
-notification: U heeft :count nieuwe berichten
+notification: Je hebt :count nieuwe berichten
 status_active: Actief
 status_error: Fout
 status_pending: In afwachting
