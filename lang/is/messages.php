@@ -5,5 +5,5 @@ return [
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name\\!',
   'success' => 'Aðgerð tókst með góðum árangri',
-  'welcome' => 'Velkomin í appið okkar',
+  'welcome' => 'Velkomin/n á forritið okkar',
 ];
