@@ -4,6 +4,6 @@ return [
   'error_message' => 'Er is iets misgegaan',
   'goodbye' => 'Tot ziens',
   'greeting' => 'Hallo, :name\\!',
-  'success' => 'Bewerking succesvol voltooid',
+  'success' => 'Operatie succesvol voltooid',
   'welcome' => 'Welkom bij onze applicatie',
 ];
