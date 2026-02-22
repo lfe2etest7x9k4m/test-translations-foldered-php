@@ -1,12 +1,15 @@
 {
   "empty_value": "",
   "farewell": "Bless, :name!",
-  "greeting": "Halló, :name!",
+  "greeting": "Hæ, :name!",
   "items": {
     "one": "{count} atriði",
     "other": "{count} hlutir"
   },
   "legacy_key": "Þessi lykill er aðeins til í nl_NL",
+  "push_count": 42,
+  "push_greeting": "Halló, :name! Velkomin um borð.",
+  "push_html": "Smelltu \u003cstrong \u003ehér\u003c/strong\u003e til að halda áfram",
   "settings": {
     "description": null,
     "enabled": true,
