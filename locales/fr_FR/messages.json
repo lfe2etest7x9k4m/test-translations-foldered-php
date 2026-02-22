@@ -1,12 +1,14 @@
 {
   "empty_value": "",
   "farewell": "Au revoir, :name!",
-  "greeting": "Bonjour, :name!",
+  "greeting": "Bonjour, :name !",
   "items": {
     "one": "{count} élément",
     "other": "{count} éléments"
   },
   "legacy_key": "Cette clé n'existe que dans nl_NL",
+  "push_greeting": "Bonjour, :name ! Bienvenue à bord.",
+  "push_html": "Cliquez \u003cstrong\u003eici\u003c/strong\u003e pour continuer",
   "special_chars": "C'est un test avec \u003cangle\u003e et plus",
   "ui": {
     "button_cancel": "Annuler",
