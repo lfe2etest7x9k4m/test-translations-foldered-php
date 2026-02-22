@@ -3,7 +3,7 @@
   "farewell": "Bless, :name!",
   "greeting": "Halló, :name!",
   "items": {
-    "one": "{count} atriði",
+    "one": "{count} hlutur",
     "other": "{count} hlutir"
   },
   "legacy_key": "Þessi lykill er aðeins til í nl_NL",
@@ -12,7 +12,7 @@
     "enabled": true,
     "max_retries": 3
   },
-  "special_chars": "Þetta er próf með \u003cbeygla\u003e \u0026 fleira",
+  "special_chars": "Þetta er próf með \u003cangle\u003e \u0026 fleira",
   "ui": {
     "button_cancel": "Hætta við",
     "button_delete": "Eyða",
