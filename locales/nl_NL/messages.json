@@ -3,8 +3,8 @@
   "farewell": "Tot ziens, :name!",
   "greeting": "Hallo, :name!",
   "items": {
-    "one": "{count} item",
-    "other": "{count} items"
+    "one": ":count item",
+    "other": ":count items"
   },
   "legacy_key": "This key only exists in nl_NL",
   "settings": {
