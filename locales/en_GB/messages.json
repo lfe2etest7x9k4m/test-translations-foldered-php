@@ -17,5 +17,5 @@
     "enabled": true,
     "description": null
   },
-  "special_chars": "It's a \"test\" with <angle> & more"
+  "special_chars": "It's a test with <angle> & more"
 }
