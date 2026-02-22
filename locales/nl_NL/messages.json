@@ -8,5 +8,6 @@
     "max_retries": 3,
     "enabled": true,
     "description": null
-  }
+  },
+  "legacy_key": "This key only exists in nl_NL"
 }

@@ -1,8 +1,7 @@
 {
   "greeting": "Halló, :name!",
   "ui": {
-    "button_save": "Vista",
-    "button_cancel": "Hætta við"
+    "button_save": "Vista"
   },
   "settings": {
     "max_retries": 3,

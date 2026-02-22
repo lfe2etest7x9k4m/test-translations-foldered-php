@@ -1,12 +1,21 @@
 {
   "greeting": "Hello, :name!",
+  "farewell": "Goodbye, :name!",
+  "welcome_html": "Welcome to <strong>LocaleFlow</strong>",
+  "empty_value": "",
+  "items": {
+    "one": "{count} item",
+    "other": "{count} items"
+  },
   "ui": {
     "button_save": "Save",
-    "button_cancel": "Cancel"
+    "button_cancel": "Cancel",
+    "button_delete": "Delete"
   },
   "settings": {
     "max_retries": 3,
     "enabled": true,
     "description": null
-  }
+  },
+  "special_chars": "It's a \"test\" with <angle> & more"
 }
