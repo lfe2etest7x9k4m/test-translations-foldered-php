@@ -1,5 +1,5 @@
-emoji_test: Hæ heimur
-notification: Þú hefur fengið :count ný skilaboð
+emoji_test: Halló heimur
+notification: Þú ert með :count ný skilaboð
 status_active: Virkt
 status_error: Villa
-status_pending: Í bið
+status_pending: Bíður

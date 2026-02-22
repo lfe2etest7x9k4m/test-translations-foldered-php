@@ -1,9 +1,9 @@
 <?php
 
 return [
-  'error_message' => 'Villa kom upp',
+  'error_message' => 'Eitthvað fór úrskeiðis',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name\\!',
-  'success' => 'Aðgerð tókst',
+  'success' => 'Aðgerð lauk með góðum árangri',
   'welcome' => 'Velkomin í forritið okkar',
 ];
