@@ -1,4 +1,5 @@
 {
+  "empty_value": "",
   "farewell": "Goodbye, :name!",
   "greeting": "Hello, :name!",
   "items": {
@@ -16,7 +17,7 @@
   "settings": {
     "description": null,
     "enabled": true,
-    "max_retries": 7
+    "max_retries": 3
   },
   "special_chars": "It's a test with \u003cangle\u003e \u0026 more",
   "ui": {

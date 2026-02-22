@@ -16,7 +16,7 @@
   "settings": {
     "description": null,
     "enabled": true,
-    "max_retries": 7
+    "max_retries": 3
   },
   "special_chars": "Het is een test met \u003cangle\u003e \u0026 meer",
   "ui": {
