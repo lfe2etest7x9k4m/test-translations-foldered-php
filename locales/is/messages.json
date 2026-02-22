@@ -1,6 +1,6 @@
 {
   "empty_value": "",
-  "farewell": "Sjáumst, :name!",
+  "farewell": "Bless, :name!",
   "greeting": "Halló, :name!",
   "items": {
     "one": "{count} hlutur",
