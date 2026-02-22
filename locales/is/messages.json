@@ -1,11 +1,22 @@
 {
+  "empty_value": "",
+  "farewell": "Goodbye, :name!",
   "greeting": "Halló, :name!",
+  "items": {
+    "one": "{count} item",
+    "other": "{count} items"
+  },
+  "legacy_key": "This key only exists in nl_NL",
+  "settings": {
+    "description": null,
+    "enabled": true,
+    "max_retries": 3
+  },
+  "special_chars": "It's a test with \u003cangle\u003e \u0026 more",
   "ui": {
+    "button_cancel": "Cancel",
+    "button_delete": "Delete",
     "button_save": "Vista"
   },
-  "settings": {
-    "max_retries": 3,
-    "enabled": true,
-    "description": null
-  }
+  "welcome_html": "Welcome to \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
 }

@@ -1,2 +1,5 @@
-status_active: "Virkt"
-status_error: "Villa"
+emoji_test: Hello World
+notification: You have :count new messages
+status_active: Virkt
+status_error: Villa
+status_pending: Pending
