@@ -1,21 +1,22 @@
 {
-  "greeting": "Hello, :name!",
-  "farewell": "Goodbye, :name!",
-  "welcome_html": "Welcome to <strong>LocaleFlow</strong>",
   "empty_value": "",
+  "farewell": "Goodbye, :name!",
+  "greeting": "Hello, :name!",
   "items": {
     "one": "{count} item",
     "other": "{count} items"
   },
-  "ui": {
-    "button_save": "Save",
-    "button_cancel": "Cancel",
-    "button_delete": "Delete"
-  },
+  "legacy_key": "Deze sleutel bestaat alleen in nl_NL",
   "settings": {
-    "max_retries": 3,
+    "description": null,
     "enabled": true,
-    "description": null
+    "max_retries": 3
   },
-  "special_chars": "It's a test with <angle> & more"
+  "special_chars": "It's a test with \u003cangle\u003e \u0026 more",
+  "ui": {
+    "button_cancel": "Cancel",
+    "button_delete": "Delete",
+    "button_save": "Save"
+  },
+  "welcome_html": "Welcome to \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
 }
