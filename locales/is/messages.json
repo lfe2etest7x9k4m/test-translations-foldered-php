@@ -15,6 +15,9 @@
     "welcome_key": "velkomin",
     "welcome_text": "Velkomin í forritið okkar"
   },
+  "push_count": 42,
+  "push_greeting": "Halló, :name! Velkomin um borð.",
+  "push_html": "Smelltu \u003cstrong\u003ehér\u003c/strong\u003e til að halda áfram",
   "settings": {
     "description": null,
     "enabled": true,

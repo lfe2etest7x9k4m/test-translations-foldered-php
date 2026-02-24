@@ -1,7 +1,7 @@
 {
   "empty_value": "",
   "farewell": "Au revoir, :name !",
-  "greeting": "Bonjour, :name !",
+  "greeting": "Salut, :name !",
   "items": {
     "one": "{count} élément",
     "other": "{count} éléments"
@@ -15,6 +15,9 @@
     "welcome_key": "welcome",
     "welcome_text": "Bienvenue sur notre application"
   },
+  "push_count": 42,
+  "push_greeting": "Bonjour, :name ! Bienvenue à bord.",
+  "push_html": "Cliquez \u003cstrong\u003eici\u003c/strong\u003e pour continuer",
   "special_chars": "C'est un test avec \u003cangle\u003e \u0026 plus",
   "ui": {
     "button_cancel": "Annuler",

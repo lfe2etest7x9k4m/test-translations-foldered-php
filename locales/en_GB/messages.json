@@ -1,7 +1,7 @@
 {
   "empty_value": "",
   "farewell": "Goodbye, :name!",
-  "greeting": "Hello, :name!",
+  "greeting": "Hi there, :name!",
   "items": {
     "one": "{count} item",
     "other": "{count} items"
@@ -15,6 +15,9 @@
     "welcome_key": "welcome",
     "welcome_text": "Welcome to our application"
   },
+  "push_count": 42,
+  "push_greeting": "Hello, :name! Welcome aboard.",
+  "push_html": "Click \u003cstrong\u003ehere\u003c/strong\u003e to continue",
   "settings": {
     "description": null,
     "enabled": true,
