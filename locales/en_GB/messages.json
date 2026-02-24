@@ -7,6 +7,14 @@
     "other": "{count} items"
   },
   "legacy_key": "This key only exists in nl_NL",
+  "messages": {
+    "goodbye": "Goodbye",
+    "goodbye_key": "goodbye",
+    "greeting_key": "greeting",
+    "greeting_text": "Hello, :name!",
+    "welcome_key": "welcome",
+    "welcome_text": "Welcome to our application"
+  },
   "settings": {
     "description": null,
     "enabled": true,

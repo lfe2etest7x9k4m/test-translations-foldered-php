@@ -7,6 +7,14 @@
     "other": "{count} atriði"
   },
   "legacy_key": "This key only exists in nl_NL",
+  "messages": {
+    "goodbye": "Bless",
+    "goodbye_key": "kvödd",
+    "greeting_key": "heilsun",
+    "greeting_text": "Halló, :name!",
+    "welcome_key": "velkomin",
+    "welcome_text": "Velkomin í forritið okkar"
+  },
   "settings": {
     "description": null,
     "enabled": true,

@@ -1,0 +1,25 @@
+{
+  "empty_value": "",
+  "farewell": "Au revoir, :name !",
+  "greeting": "Bonjour, :name !",
+  "items": {
+    "one": "{count} élément",
+    "other": "{count} éléments"
+  },
+  "legacy_key": "Cette clé n'existe que dans nl_NL",
+  "messages": {
+    "goodbye": "Au revoir",
+    "goodbye_key": "goodbye",
+    "greeting_key": "greeting",
+    "greeting_text": "Bonjour, :name !",
+    "welcome_key": "welcome",
+    "welcome_text": "Bienvenue sur notre application"
+  },
+  "special_chars": "C'est un test avec \u003cangle\u003e \u0026 plus",
+  "ui": {
+    "button_cancel": "Annuler",
+    "button_delete": "Supprimer",
+    "button_save": "Enregistrer"
+  },
+  "welcome_html": "Bienvenue sur \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
+}
