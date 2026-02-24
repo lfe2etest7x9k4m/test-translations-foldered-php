@@ -1,7 +1,6 @@
 {
-  "empty_value": "",
   "farewell": "Tot ziens, :name!",
-  "greeting": "Hallo :name!",
+  "greeting": "Hallo, :name!",
   "items": {
     "one": "{count} item",
     "other": "{count} items"
@@ -15,13 +14,17 @@
     "welcome_key": "welcome",
     "welcome_text": "Welkom bij onze applicatie"
   },
+  "push2_items": {
+    "one": "{count} widget",
+    "other": "{count} widgets"
+  },
   "push_count": 42,
   "push_greeting": "Hallo :name! Welkom.",
   "push_html": "Klik \u003cstrong\u003ehier\u003c/strong\u003e om door te gaan",
   "settings": {
     "description": null,
     "enabled": true,
-    "max_retries": 3
+    "max_retries": 7
   },
   "special_chars": "Het is een test met \u003cangle\u003e \u0026 meer",
   "ui": {

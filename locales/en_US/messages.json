@@ -1,5 +1,4 @@
 {
-  "empty_value": "",
   "farewell": "Goodbye, :name!",
   "greeting": "Hi there, :name!",
   "items": {
@@ -15,13 +14,17 @@
     "welcome_key": "welcome",
     "welcome_text": "Welcome to our application"
   },
+  "push2_items": {
+    "one": "{count} widget",
+    "other": "{count} widgets"
+  },
   "push_count": 42,
   "push_greeting": "Hello, :name! Welcome aboard.",
   "push_html": "Click \u003cstrong\u003ehere\u003c/strong\u003e to continue",
   "settings": {
     "description": null,
     "enabled": true,
-    "max_retries": 3
+    "max_retries": 7
   },
   "special_chars": "It's a test with \u003cangle\u003e \u0026 more",
   "ui": {
