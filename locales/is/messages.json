@@ -3,8 +3,8 @@
   "farewell": "Bless, :name!",
   "greeting": "Halló, :name!",
   "items": {
-    "one": "{count} atriði",
-    "other": "{count} atriði"
+    "one": "{count} hlutur",
+    "other": "{count} hlutir"
   },
   "legacy_key": "Þessi lykill er aðeins til í nl_NL",
   "settings": {
@@ -12,11 +12,11 @@
     "enabled": true,
     "max_retries": 3
   },
-  "special_chars": "Þetta er próf með \u003chorn\u003e \u0026 fleira",
+  "special_chars": "Þetta er próf með \\u003cangle\\u003e og fleira",
   "ui": {
     "button_cancel": "Hætta við",
     "button_delete": "Eyða",
     "button_save": "Vista"
   },
-  "welcome_html": "Velkomin/n á \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
+  "welcome_html": "Velkomin til \\u003cstrong\\u003eLocaleFlow\\u003c/strong\\u003e"
 }
