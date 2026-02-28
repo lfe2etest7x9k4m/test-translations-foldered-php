@@ -12,7 +12,7 @@
     "enabled": true,
     "max_retries": 3
   },
-  "special_chars": "Het is een test met \u003cangle\u003e \u0026 meer",
+  "special_chars": "Dit is een test met \u003cangle\u003e \u0026 meer",
   "ui": {
     "button_cancel": "Annuleren",
     "button_delete": "Verwijderen",
