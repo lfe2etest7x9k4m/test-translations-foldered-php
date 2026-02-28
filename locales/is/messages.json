@@ -12,11 +12,11 @@
     "enabled": true,
     "max_retries": 3
   },
-  "special_chars": "Þetta er próf með \u0026lt;angle\u0026gt; \u0026amp; fleira",
+  "special_chars": "Þetta er próf með \\u003cangle\\u003e \\u0026 fleira",
   "ui": {
     "button_cancel": "Hætta við",
     "button_delete": "Eyða",
     "button_save": "Vista"
   },
-  "welcome_html": "Velkomin/n til \u0026lt;strong\u0026gt;LocaleFlow\u0026lt;/strong\u0026gt;"
+  "welcome_html": "Velkominn á \\u003cstrong\\u003eLocaleFlow\\u003c/strong\\u003e"
 }
