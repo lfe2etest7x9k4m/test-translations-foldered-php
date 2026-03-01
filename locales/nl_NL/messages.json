@@ -1,4 +1,5 @@
 {
+  "exhausted_test": "Deze sleutel is toegevoegd terwijl het quotum vol was",
   "greeting": "Hallo, :name!",
   "legacy_key": "This key only exists in nl_NL",
   "settings": {
