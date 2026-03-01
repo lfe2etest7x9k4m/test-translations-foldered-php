@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'greeting' => 'Halló, :name\!',
-    'goodbye' => 'Bless',
+  'goodbye' => 'Bless',
+  'greeting' => 'Halló, :name\\!',
 ];
