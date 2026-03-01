@@ -12,11 +12,11 @@
     "enabled": true,
     "max_retries": 3
   },
-  "special_chars": "Het is een test met \u0026lt;angle\u0026gt; \u0026amp; meer",
+  "special_chars": "Het is een test met \\u003cangle\\u003e \\u0026 meer",
   "ui": {
     "button_cancel": "Annuleren",
     "button_delete": "Verwijderen",
     "button_save": "Opslaan"
   },
-  "welcome_html": "Welkom bij \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
+  "welcome_html": "Welkom bij \\u003cstrong\\u003eLocaleFlow\\u003c/strong\\u003e"
 }
