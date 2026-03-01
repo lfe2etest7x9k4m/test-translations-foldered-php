@@ -1,3 +1,4 @@
 {
-  "exhausted_test": "Cette clé a été ajoutée alors que le quota était épuisé"
+  "exhausted_test": "Cette clé a été ajoutée alors que le quota était épuisé",
+  "topup_test": "Cette clé teste le flux de reprise des recharges"
 }

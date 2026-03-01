@@ -6,6 +6,7 @@
     "enabled": true,
     "max_retries": 3
   },
+  "topup_test": "Þessi lykill prófar áframhaldsflæði viðbótar",
   "ui": {
     "button_save": "Vista"
   }

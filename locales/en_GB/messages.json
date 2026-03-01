@@ -13,6 +13,7 @@
     "max_retries": 3
   },
   "special_chars": "It's a test with \u003cangle\u003e \u0026 more",
+  "topup_test": "This key tests the top-up resume flow",
   "ui": {
     "button_cancel": "Cancel",
     "button_delete": "Delete",
