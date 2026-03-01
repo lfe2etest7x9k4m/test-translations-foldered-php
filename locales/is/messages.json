@@ -4,7 +4,7 @@
   "greeting": "Halló, :name!",
   "items": {
     "one": "{count} atriði",
-    "other": "{count} atvik"
+    "other": "{count} atriði"
   },
   "legacy_key": "Þessi lykill er aðeins til í nl_NL",
   "settings": {
@@ -18,5 +18,5 @@
     "button_delete": "Eyða",
     "button_save": "Vista"
   },
-  "welcome_html": "Velkomin í \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
+  "welcome_html": "Velkomin í \\u003cstrong\\u003eLocaleFlow\\u003c/strong\\u003e"
 }
