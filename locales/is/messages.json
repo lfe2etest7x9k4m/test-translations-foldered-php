@@ -1,19 +1,22 @@
 {
-  "empty_value": "",
   "farewell": "Bless, :name!",
-  "greeting": "Hæ, :name!",
+  "greeting": "Halló, :name!",
   "items": {
     "one": "{count} atriði",
     "other": "{count} atriði"
   },
   "legacy_key": "Deze sleutel bestaat alleen in nl_NL",
+  "push2_items": {
+    "one": "{count} græju",
+    "other": "{count} græjur"
+  },
   "push_count": 42,
   "push_greeting": "Halló, :name! Velkomin(n) um borð.",
   "push_html": "Smelltu \\u003cstrong\\u003ehér\\u003c/strong\\u003e til að halda áfram",
   "settings": {
     "description": null,
     "enabled": true,
-    "max_retries": 3
+    "max_retries": 7
   },
   "special_chars": "Þetta er próf með \\u003cangle\\u003e \\u0026 fleira",
   "ui": {
