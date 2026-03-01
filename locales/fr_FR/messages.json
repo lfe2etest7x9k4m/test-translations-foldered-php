@@ -7,6 +7,8 @@
     "other": "{count} éléments"
   },
   "legacy_key": "Cette clé existe uniquement en nl_NL",
+  "push_greeting": "Bonjour, :name ! Bienvenue !",
+  "push_html": "Cliquez \\u003cstrong\\u003eici\\u003c/strong\\u003e pour continuer",
   "special_chars": "C'est un test avec \\u003cangle\\u003e et plus",
   "ui": {
     "button_cancel": "Annuler",
