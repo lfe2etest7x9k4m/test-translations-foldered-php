@@ -3,8 +3,8 @@
   "farewell": "Bless, :name!",
   "greeting": "Halló, :name!",
   "items": {
-    "one": "{count} atriði",
-    "other": "{count} atriði"
+    "one": "{count} at",
+    "other": "{count} at"
   },
   "legacy_key": "Þessi lykill er aðeins til í nl_NL",
   "settings": {
