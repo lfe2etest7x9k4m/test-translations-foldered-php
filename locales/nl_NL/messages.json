@@ -1,13 +1,22 @@
 {
+  "empty_value": "",
+  "farewell": "Tot ziens, :name!",
   "greeting": "Hallo, :name!",
-  "ui": {
-    "button_save": "Opslaan",
-    "button_cancel": "Annuleren"
+  "items": {
+    "one": "{count} item",
+    "other": "{count} items"
   },
+  "legacy_key": "This key only exists in nl_NL",
   "settings": {
-    "max_retries": 3,
+    "description": null,
     "enabled": true,
-    "description": null
+    "max_retries": 3
   },
-  "legacy_key": "This key only exists in nl_NL"
+  "special_chars": "Het is een test met \u0026lt;angle\u0026gt; \u0026amp; meer",
+  "ui": {
+    "button_cancel": "Annuleren",
+    "button_delete": "Verwijderen",
+    "button_save": "Opslaan"
+  },
+  "welcome_html": "Welkom bij \u0026lt;strong\u0026gt;LocaleFlow\u0026lt;/strong\u0026gt;"
 }
