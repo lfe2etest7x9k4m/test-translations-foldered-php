@@ -1,7 +1,8 @@
 <?php
 
 return [
-    'greeting' => 'Hallo, :name\!',
-    'goodbye' => 'Tot ziens',
-    'welcome' => 'Welkom bij onze applicatie',
+  'goodbye' => 'Tot ziens',
+  'greeting' => 'Hallo, :name\\!',
+  'push_email' => 'Neem contact met ons op via :email',
+  'welcome' => 'Welkom op ons vernieuwde platform',
 ];

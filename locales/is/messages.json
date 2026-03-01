@@ -1,11 +1,11 @@
 {
   "greeting": "Halló, :name!",
+  "settings": {
+    "description": null,
+    "enabled": true,
+    "max_retries": 3
+  },
   "ui": {
     "button_save": "Vista"
-  },
-  "settings": {
-    "max_retries": 3,
-    "enabled": true,
-    "description": null
   }
 }
