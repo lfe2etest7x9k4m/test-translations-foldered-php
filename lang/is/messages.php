@@ -1,6 +1,9 @@
 <?php
 
 return [
-    'greeting' => 'Halló, :name\!',
-    'goodbye' => 'Bless',
+  'error_message' => 'Eitthvað fór úrskeiðis',
+  'goodbye' => 'Bless',
+  'greeting' => 'Halló, :name\\!',
+  'success' => 'Aðgerð tókst að fullu',
+  'welcome' => 'Velkomin í forritið okkar',
 ];
