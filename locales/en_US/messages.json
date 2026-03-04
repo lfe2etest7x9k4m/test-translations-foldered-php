@@ -1,4 +1,5 @@
 {
+  "exhausted_test": "This key was added while quota was exhausted",
   "farewell": "Goodbye, :name!",
   "greeting": "Hi there, :name!",
   "items": {
@@ -11,18 +12,17 @@
   },
   "push_count": 42,
   "push_greeting": "Hello, :name! Welcome aboard.",
-  "push_html": "Click <strong>here</strong> to continue",
+  "push_html": "Click \u003cstrong\u003ehere\u003c/strong\u003e to continue",
   "settings": {
     "description": null,
     "enabled": true,
     "max_retries": 7
   },
-  "special_chars": "It's a test with <angle> & more",
+  "special_chars": "It's a test with \u003cangle\u003e \u0026 more",
   "ui": {
     "button_cancel": "Cancel",
     "button_delete": "Delete",
     "button_save": "Save"
   },
-  "welcome_html": "Welcome to <strong>LocaleFlow</strong>",
-  "exhausted_test": "This key was added while quota was exhausted"
+  "welcome_html": "Welcome to \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
 }

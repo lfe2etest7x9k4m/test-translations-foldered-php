@@ -1,5 +1,6 @@
 {
   "empty_value": "",
+  "exhausted_test": "This key was added while quota was exhausted",
   "farewell": "Goodbye, :name!",
   "greeting": "Hello, :name!",
   "items": {

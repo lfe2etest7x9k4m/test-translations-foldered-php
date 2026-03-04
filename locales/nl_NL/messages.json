@@ -1,4 +1,5 @@
 {
+  "exhausted_test": "Deze sleutel is toegevoegd terwijl de limiet was uitgeput",
   "greeting": "Hallo, :name!",
   "legacy_key": "This key only exists in nl_NL",
   "settings": {

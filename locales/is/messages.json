@@ -1,4 +1,5 @@
 {
+  "exhausted_test": "Þessi lykill var bætt við þegar kvótinn var uppurin",
   "greeting": "Halló, :name!",
   "settings": {
     "description": null,
