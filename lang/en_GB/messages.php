@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'greeting' => 'Hello, :name\!',
-    'goodbye' => 'Goodbye',
-    'welcome' => 'Welcome to our application',
-    'error_message' => 'Something went wrong',
-    'success' => 'Operation completed successfully',
+  'error_message' => 'Something went wrong',
+  'goodbye' => 'Goodbye',
+  'greeting' => 'Hello, :name\\!',
+  'success' => 'Operation completed successfully',
+  'welcome' => 'Welcome to our application',
 ];
