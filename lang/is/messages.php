@@ -4,6 +4,6 @@ return [
   'error_message' => 'Eitthvað fór úrskeiðis',
   'goodbye' => 'Bless',
   'greeting' => 'Halló, :name\\!',
-  'success' => 'Aðgerð tókst að fullu',
-  'welcome' => 'Velkomin(n) í forritið okkar',
+  'success' => 'Aðgerð lauk með góðum árangri',
+  'welcome' => 'Velkomin í umsóknina okkar',
 ];
