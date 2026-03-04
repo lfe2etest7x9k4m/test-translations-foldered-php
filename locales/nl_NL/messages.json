@@ -7,6 +7,7 @@
     "enabled": true,
     "max_retries": 3
   },
+  "topup_test": "Deze sleutel test de hervattingsstroom na een onderbreking.",
   "ui": {
     "button_cancel": "Annuleren",
     "button_save": "Opslaan"
