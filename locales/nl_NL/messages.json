@@ -1,13 +1,13 @@
 {
   "greeting": "Hallo, :name!",
-  "ui": {
-    "button_save": "Opslaan",
-    "button_cancel": "Annuleren"
-  },
+  "legacy_key": "This key only exists in nl_NL",
   "settings": {
-    "max_retries": 3,
+    "description": null,
     "enabled": true,
-    "description": null
+    "max_retries": 3
   },
-  "legacy_key": "This key only exists in nl_NL"
+  "ui": {
+    "button_cancel": "Annuleren",
+    "button_save": "Opslaan"
+  }
 }
