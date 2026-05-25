@@ -1,5 +1,5 @@
-status_active: "Active"
-status_error: "Error"
-status_pending: "Pending"
-emoji_test: "Hello World"
-notification: "You have :count new messages"
+emoji_test: Hello World
+notification: You have :count new messages
+status_active: Active
+status_error: Error
+status_pending: Pending
