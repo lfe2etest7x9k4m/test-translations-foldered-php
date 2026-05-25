@@ -6,7 +6,7 @@
     "one": "{count} item",
     "other": "{count} items"
   },
-  "legacy_key": "This key only exists in Dutch",
+  "legacy_key": "This key only exists in nl_NL",
   "settings": {
     "description": null,
     "enabled": true,
