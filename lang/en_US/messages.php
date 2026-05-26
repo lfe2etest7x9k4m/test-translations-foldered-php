@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'greeting' => 'Hello, :name\!',
-    'goodbye' => 'Goodbye',
-    'welcome' => 'Welcome to our updated platform',
-    'error_message' => 'Something went wrong',
-    'success' => 'Operation completed successfully',
-    'push_email' => 'Contact us at :email',
+  'error_message' => 'Something went wrong',
+  'goodbye' => 'Goodbye',
+  'greeting' => 'Hello, :name\\!',
+  'push_email' => 'Contact us at :email',
+  'success' => 'Operation completed successfully',
+  'welcome' => 'Welcome to our updated platform',
 ];

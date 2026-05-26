@@ -1,27 +1,27 @@
 {
-  "greeting": "Hi there, :name!",
   "farewell": "Goodbye, :name!",
-  "welcome_html": "Welcome to <strong>LocaleFlow</strong>",
+  "greeting": "Hi there, :name!",
   "items": {
     "one": "{count} item",
     "other": "{count} items"
   },
-  "ui": {
-    "button_save": "Save",
-    "button_cancel": "Cancel",
-    "button_delete": "Delete"
-  },
-  "settings": {
-    "max_retries": 7,
-    "enabled": true,
-    "description": null
-  },
-  "special_chars": "It's a test with <angle> & more",
-  "push_greeting": "Hello, :name! Welcome aboard.",
-  "push_html": "Click <strong>here</strong> to continue",
-  "push_count": 42,
   "push2_items": {
     "one": "{count} widget",
     "other": "{count} widgets"
-  }
+  },
+  "push_count": 42,
+  "push_greeting": "Hello, :name! Welcome aboard.",
+  "push_html": "Click \u003cstrong\u003ehere\u003c/strong\u003e to continue",
+  "settings": {
+    "description": null,
+    "enabled": true,
+    "max_retries": 7
+  },
+  "special_chars": "It's a test with \u003cangle\u003e \u0026 more",
+  "ui": {
+    "button_cancel": "Cancel",
+    "button_delete": "Delete",
+    "button_save": "Save"
+  },
+  "welcome_html": "Welcome to \u003cstrong\u003eLocaleFlow\u003c/strong\u003e"
 }
