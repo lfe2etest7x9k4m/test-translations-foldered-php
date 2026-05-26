@@ -1,5 +1,5 @@
 {
-  "greeting": "Hello, :name!",
+  "greeting": "Hi there, :name!",
   "farewell": "Goodbye, :name!",
   "welcome_html": "Welcome to <strong>LocaleFlow</strong>",
   "empty_value": "",
@@ -17,5 +17,8 @@
     "enabled": true,
     "description": null
   },
-  "special_chars": "It's a test with <angle> & more"
+  "special_chars": "It's a test with <angle> & more",
+  "push_greeting": "Hello, :name! Welcome aboard.",
+  "push_html": "Click <strong>here</strong> to continue",
+  "push_count": 42
 }
